@@ -1,0 +1,22 @@
+<svg width="385px" height="310px" viewBox="-210 -150 385 310" xmlns="http://www.w3.org/2000/svg">
+<circle cx="0" cy="0" r="100" stroke="black" fill="none"/>
+<path d="M 0 0 L -0.0 -100.0" stroke="red"/>
+<path d="M 0 0 L -86.6 50.0" stroke="blue"/>
+<path d="M 0 0 L 86.6 50.0" stroke="green"/>
+<path d="M 50.0 -86.6 L 54.25 -93.96" stroke="black"/>
+<text x="57.75" y="-100.03" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">6</text>
+<path d="M -0.0 -100.0 L -0.0 -116.25" stroke="black"/>
+<text x="-0.0" y="-123.25" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">5</text>
+<path d="M -0.0 100.0 L -0.0 124.38" stroke="black"/>
+<text x="-0.0" y="131.38" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">1</text>
+<path d="M -50.0 -86.6 L -66.53 -115.24" stroke="black"/>
+<text x="-70.03" y="-121.3" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">4</text>
+<path d="M -86.6 50.0 L -123.49 71.3" stroke="black"/>
+<text x="-129.55" y="74.8" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">6</text>
+<path d="M 92.39 38.27 L 141.71 58.7" stroke="black"/>
+<text x="148.18" y="61.38" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">5</text>
+<path d="M -100.0 -0.0 L -166.09 -0.0" stroke="black"/>
+<text x="-173.09" y="-0.0" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">4</text>
+<path d="M -96.59 25.88 L -175.44 47.01" stroke="black"/>
+<text x="-182.2" y="48.82" alignment-baseline="middle" font-size="10" dominant-baseline="middle" text-anchor="middle">1</text>
+</svg>

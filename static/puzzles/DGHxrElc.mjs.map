@@ -1,0 +1,1 @@
+{"version":3,"file":"DGHxrElc.mjs","sources":["../../../../anti-leak/dist/index.js"],"sourcesContent":["function t(n) {\n  return n;\n}\nexport {\n  t as dontLeakThis\n};\n//# sourceMappingURL=index.js.map\n"],"names":[],"mappings":"AAAA,SAAS,EAAE,GAAG;AACZ,SAAO;AACT;"}

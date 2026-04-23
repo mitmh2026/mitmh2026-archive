@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="610" viewBox="0 0 420 610">
+  <circle cx="250" cy="70" r="15" stroke="black" stroke-width="1" fill="#FDBA74" />
+  <circle cx="140" cy="140" r="15" stroke="black" stroke-width="1" fill="none" />
+  <g>
+    <circle cx="320" cy="140" r="15" stroke="black" stroke-width="1" fill="none" />
+    <text x="320" y="140" text-anchor="middle" dominant-baseline="middle" fill="black" font-size="20" >5</text>
+  </g>
+  <circle cx="90" cy="230" r="15" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="260" cy="230" r="15" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="70" cy="340" r="15" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="200" cy="340" r="15" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="350" cy="340" r="15" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="140" cy="540" r="15" stroke="black" stroke-width="1" fill="#93C5FD" />
+  <polyline points="237.345,78.0531 152.655,131.947" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="250.936,84.9708 259.064,215.029" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="132.715,153.112 97.2846,216.888" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="322.225,154.834 347.775,325.166" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="87.3167,244.758 72.6833,325.242" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="252.817,243.168 207.183,326.832" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="74.9553,354.158 135.045,525.842" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="195.69,354.367 144.31,525.633" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="339.138,350.345 150.862,529.655" stroke="black" stroke-width="1" fill="none" />
+</svg>

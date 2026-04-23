@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720">
+<path d="M60,60L60,160" stroke="black" fill="white"/>
+<circle cx="60" cy="60" r="30" stroke="none" fill="white"/>
+<text x="60" y="60" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">f</text>
+<circle cx="60" cy="160" r="30" stroke="none" fill="white"/>
+<text x="60" y="160" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<text x="150" y="60" text-anchor="middle" dominant-baseline="middle" font-size="50" fill="black">=</text>
+<path d="M543,60L290,160" stroke="black" fill="white"/>
+<path d="M543,60L440,160" stroke="black" fill="white"/>
+<path d="M543,60L796,160" stroke="black" fill="white"/>
+<path d="M290,160L240,260" stroke="black" fill="white"/>
+<path d="M290,160L340,260" stroke="black" fill="white"/>
+<path d="M796,160L590,260" stroke="black" fill="white"/>
+<path d="M796,160L1002,260" stroke="black" fill="white"/>
+<path d="M590,260L540,360" stroke="black" fill="white"/>
+<path d="M590,260L640,360" stroke="black" fill="white"/>
+<path d="M1002,260L1002,360" stroke="black" fill="white"/>
+<path d="M1002,360L790,460" stroke="black" fill="white"/>
+<path d="M1002,360L990,460" stroke="black" fill="white"/>
+<path d="M1002,360L1215,460" stroke="black" fill="white"/>
+<path d="M790,460L740,560" stroke="black" fill="white"/>
+<path d="M790,460L840,560" stroke="black" fill="white"/>
+<path d="M990,460L940,560" stroke="black" fill="white"/>
+<path d="M990,460L1040,560" stroke="black" fill="white"/>
+<path d="M1215,460L1140,560" stroke="black" fill="white"/>
+<path d="M1215,460L1290,560" stroke="black" fill="white"/>
+<path d="M1290,560L1240,660" stroke="black" fill="white"/>
+<path d="M1290,560L1340,660" stroke="black" fill="white"/>
+<circle cx="543" cy="60" r="30" stroke="none" fill="white"/>
+<text x="543" y="60" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="black">if</text>
+<circle cx="290" cy="160" r="30" stroke="none" fill="white"/>
+<text x="290" y="160" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">=</text>
+<circle cx="240" cy="260" r="30" stroke="none" fill="white"/>
+<text x="240" y="260" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<circle cx="340" cy="260" r="30" stroke="none" fill="white"/>
+<text x="340" y="260" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">1</text>
+<circle cx="440" cy="160" r="30" stroke="none" fill="white"/>
+<text x="440" y="160" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="black">[]</text>
+<circle cx="796" cy="160" r="30" stroke="none" fill="white"/>
+<text x="796" y="160" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="black">concat</text>
+<circle cx="590" cy="260" r="30" stroke="none" fill="white"/>
+<text x="590" y="260" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">></text>
+<circle cx="540" cy="360" r="30" stroke="none" fill="white"/>
+<text x="540" y="360" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<circle cx="640" cy="360" r="30" stroke="none" fill="white"/>
+<text x="640" y="360" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">1</text>
+<circle cx="1002" cy="260" r="30" stroke="none" fill="white"/>
+<text x="1002" y="260" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">f</text>
+<circle cx="1002" cy="360" r="30" stroke="none" fill="white"/>
+<text x="1002" y="360" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="black">if</text>
+<circle cx="790" cy="460" r="30" stroke="none" fill="white"/>
+<text x="790" y="460" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">></text>
+<circle cx="740" cy="560" r="30" stroke="none" fill="white"/>
+<text x="740" y="560" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<circle cx="840" cy="560" r="30" stroke="none" fill="white"/>
+<text x="840" y="560" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">1</text>
+<ellipse cx="990" cy="460" rx="47.07" ry="31.38" stroke="black" fill="white"/>
+<circle cx="940" cy="560" r="30" stroke="none" fill="white"/>
+<text x="940" y="560" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<circle cx="1040" cy="560" r="30" stroke="none" fill="white"/>
+<text x="1040" y="560" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">1</text>
+<path d="M1179.7,436.47L1179.7,483.53L1250.3,483.53L1250.3,436.47Z" stroke="black" fill="white"/>
+<circle cx="1140" cy="560" r="30" stroke="none" fill="white"/>
+<text x="1140" y="560" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+<ellipse cx="1290" cy="560" rx="47.07" ry="31.38" stroke="black" fill="white"/>
+<circle cx="1240" cy="660" r="30" stroke="none" fill="white"/>
+<text x="1240" y="660" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">1</text>
+<circle cx="1340" cy="660" r="30" stroke="none" fill="white"/>
+<text x="1340" y="660" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">x</text>
+</svg>

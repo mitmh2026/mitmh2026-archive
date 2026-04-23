@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhunt2026=self.webpackChunkhunt2026||[]).push([["main"],{"../packages/tailwind/dist/tailwind.css":function(){},"./src/frontend/client/fonts.css":function(){},"./src/frontend/client/main.tsx":function(n,s,t){t("./src/frontend/client/fonts.css"),t("../packages/tailwind/dist/tailwind.css")}},function(n){n(n.s="./src/frontend/client/main.tsx")}]);

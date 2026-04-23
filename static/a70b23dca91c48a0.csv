@@ -1,0 +1,328 @@
+puzzle_slug,title,is_task,round_slug,is_meta,is_supermeta,is_runaround
+a_wanderers_colorlog,A Wanderer's Colorlog,false,aviaria,false,false,false
+bird_calls,Bird Calls,false,aviaria,false,false,false
+crochet_egg,Crochet Egg,true,aviaria,false,false,false
+dorm_maseeh,Maseeh Hall: Aerial View,true,aviaria,false,false,false
+exsportise,Exsportise,false,aviaria,false,false,false
+feather_forecast,Feather Forecast,true,aviaria,false,false,false
+field_day,Field Day,true,aviaria,false,false,false
+fowl_bounce,Fowl Bounce,true,aviaria,false,false,false
+gen_nu_brain_rot,Gen Nu Brain ROT,false,aviaria,false,false,false
+heroic_songs,Heroic Songs,true,aviaria,false,false,false
+lost_papers,Lost Papers,true,aviaria,false,false,false
+monarch_aviaria_task,Journal with the Aviaria Puzzmon,true,aviaria,false,false,false
+mountain_cave,Mountain Cave,true,aviaria,false,false,false
+novelty_store,Novelty Store,false,aviaria,false,false,false
+novelty_store_dance,Novelty Store: Dance,true,aviaria,false,false,false
+novelty_store_drink,Novelty Store: 🍹,true,aviaria,false,false,false
+novelty_store_eat,Novelty Store: 🍽️,true,aviaria,false,false,false
+novelty_store_exercise,Novelty Store: 🏋,true,aviaria,false,false,false
+novelty_store_poop,Novelty Store: 💩,true,aviaria,false,false,false
+novelty_store_sleep,Novelty Store: 😴,true,aviaria,false,false,false
+novelty_store_walk,Novelty Store: 👣,true,aviaria,false,false,false
+puzzmon_comic,Puzzmon Comic,true,aviaria,false,false,false
+puzzmon_mascot,Puzzmon Mascot,true,aviaria,false,false,false
+puzzmon_yoga,Puzzmon Yoga,true,aviaria,false,false,false
+replacements,Replacements,false,aviaria,false,false,false
+shopping_spree,Shopping Spree,false,aviaria,false,false,false
+snapshots,Snapshots,true,aviaria,false,false,false
+welcome_to_mit,Welcome to MIT!,false,aviaria,false,false,false
+bird_nation,Bird Nation,false,aviaria,true,false,false
+bad_lip_reading,Bad Lip Reading,true,bubble_cove,false,false,false
+baker_house,Baker House: ,true,bubble_cove,false,false,false
+burnhams_marbles,Find Burnham's Marbles,true,bubble_cove,false,false,false
+collect_em_all,Puzzmon Go: Collect Em All,true,bubble_cove,false,false,false
+create_smoot,Create Your Own Smoot,true,bubble_cove,false,false,false
+crossloop,Crossloop,false,bubble_cove,false,false,false
+cryptids_exposed,Cryptids Exposed,true,bubble_cove,false,false,false
+do_they_have_chemistry,Do They Have Chemistry?,false,bubble_cove,false,false,false
+drop_star_from_teams,DROP * FROM Teams,false,bubble_cove,false,false,false
+fishy_questions,Fishy Questions,true,bubble_cove,false,false,false
+mechanical_soft_diet,Mechanical Soft Diet,false,bubble_cove,false,false,false
+monarch_bubble_cove_task,Type with the Bubble Cove Puzzmon,true,bubble_cove,false,false,false
+route_to_hq,Puzzmon Go: Route to HQ,true,bubble_cove,false,false,false
+simmons_hall,Simmons Hall: The Sponge,true,bubble_cove,false,false,false
+somebody,Somebody,false,bubble_cove,false,false,false
+this_puzzle_has_been_here_the_whole_time,This Puzzle Has Been Here The Whole Time,false,bubble_cove,false,false,false
+urban_angst,Urban Angst,false,bubble_cove,false,false,false
+walking_on_water,Walking on Water,true,bubble_cove,false,false,false
+bringing_up_baby_shark,Bringing Up Baby Shark,false,bubble_cove,true,false,false
+balancing_act,Balancing Act,false,old_bark_town,false,false,false
+boop_it,Boop It,true,old_bark_town,false,false,false
+central_precinct_and_lockup,Central Precinct & Lockup,false,old_bark_town,false,false,false
+dig_cryption_challenge,Dig-Cryption Challenge,true,old_bark_town,false,false,false
+mccormick_hall,"McCormick Hall - Spice, Spice, and Everything Nice",true,old_bark_town,false,false,false
+monarch_old_bark_town_task,Play Fetch with the Old Bark Town Puzzmon,true,old_bark_town,false,false,false
+pixelpinpointr,PixelPinpointr,false,old_bark_town,false,false,false
+prompt_engineering,Prompt Engineering,true,old_bark_town,false,false,false
+recreate_pokemon_cards,Recreate Pokémon Cards,true,old_bark_town,false,false,false
+spilled,Spilled!,false,old_bark_town,false,false,false
+the_architecture_of_flow,The Architecture of Flow,false,old_bark_town,false,false,false
+train_ride,Train Ride,true,old_bark_town,false,false,false
+x_marks_the_spot,X Marks the Spot,true,old_bark_town,false,false,false
+three_dog_night,Three Dog Night,false,old_bark_town,true,false,false
+advanced_pictograms,Advanced Pictograms,true,kitty_city,false,false,false
+alchemy_academy,Alchemy Academy,false,kitty_city,false,false,false
+campus_visit,Campus Visit,true,kitty_city,false,false,false
+capoos_diary,Capoo's Diary,false,kitty_city,false,false,false
+cat_astrophe,Cat-astrophe,false,kitty_city,false,false,false
+cat_off,Cat-Off,true,kitty_city,false,false,false
+crafts_materials,Crafts Materials,false,kitty_city,false,false,false
+frosty_blitz,Frosty Blitz,true,kitty_city,false,false,false
+jumping_to_conclusions,Jumping to Conclusions,false,kitty_city,false,false,false
+maps,Maps,false,kitty_city,false,false,false
+mithenge,MIThenge,true,kitty_city,false,false,false
+monarch_kitty_city_task,Collect Photos with the Kitty City Puzzmon,true,kitty_city,false,false,false
+new_vassar,New Vassar: Share Your Values,true,kitty_city,false,false,false
+night_circus,Night Circus,false,kitty_city,false,false,false
+portal_booth,Portal Booth,true,kitty_city,false,false,false
+random_hall,Random Hall: The Most Random Number,true,kitty_city,false,false,false
+ransom_note,Ransom Note,true,kitty_city,false,false,false
+squint_your_ears,Squint Your Ears,false,kitty_city,false,false,false
+system_of_operations,System of Operations,false,kitty_city,false,false,false
+visiting_mage,Visiting Mage,true,kitty_city,false,false,false
+wall_race,Wall Race,true,kitty_city,false,false,false
+watchtower,Watchtower,false,kitty_city,false,false,false
+nine_lives,Nine Lives,false,kitty_city,true,false,false
+abandoned_shrine,Abandoned Shrine,true,elder_drifts,false,false,false
+burton_conner_house,Burton-Conner House: BC,true,elder_drifts,false,false,false
+captcha_task,Captcha Task,true,elder_drifts,false,false,false
+chemical_x,Chemical X,false,elder_drifts,false,false,false
+convalarium,Convalarium,false,elder_drifts,false,false,false
+data_revisualization,Data Revisualization,false,elder_drifts,false,false,false
+financial_literacy,Financial Literacy,false,elder_drifts,false,false,false
+frankenstein_food,Frankenstein's Monster: Snack Time,true,elder_drifts,false,false,false
+frankenstein_paper,Frankenstein's Monster: Know How To Fold 'Em,true,elder_drifts,false,false,false
+frankenstein_shadow,Frankenstein's Monster: The Shadows,true,elder_drifts,false,false,false
+go_back_to_square_fourteen,Go Back to Square Fourteen,false,elder_drifts,false,false,false
+learn_ritual,Learn an Ancient Ritual,true,elder_drifts,false,false,false
+method_to_the_mathmess,Method to the Mathmess,false,elder_drifts,false,false,false
+monarch_elder_drifts_task,Talk with the Elder Drifts Puzzmon,true,elder_drifts,false,false,false
+new_house,New House: Something New,true,elder_drifts,false,false,false
+nominative_determinism,Nominative Determinism,false,elder_drifts,false,false,false
+paranormal_investigations,Paranormal Investigations,true,elder_drifts,false,false,false
+puzzmon_the_card_game_tournament,Puzzmon the Card Game Tournament,true,elder_drifts,false,false,false
+railway_terminal,Railway Terminal,false,elder_drifts,false,false,false
+ranking_game,Ranking Game,true,elder_drifts,false,false,false
+shapes,Shapes,false,elder_drifts,false,false,false
+tribute_puzzle,Tribute Puzzle,false,elder_drifts,false,false,false
+turing_machine,Turing Machine,false,elder_drifts,false,false,false
+uneven,Uneven,false,elder_drifts,false,false,false
+puzzmon_the_card_game,Puzzmon: The Card Game,false,elder_drifts,true,false,false
+clue_arbiter,Clue Arbiter,false,the_brights,false,false,false
+computation,Computation,false,the_brights,false,false,false
+electrical_circuit,Electrical Circuit,false,the_brights,false,false,false
+haunted_mansion,Haunted Mansion?,false,the_brights,false,false,false
+health_animal,Health & Wellness: Pet an Animal,true,the_brights,false,false,false
+health_vegetable,Health & Wellness: Eat a Plant,true,the_brights,false,false,false
+macgregor_house,MacGregor House: Tiny Towers,true,the_brights,false,false,false
+mixed_signals,Mixed Signals,true,the_brights,false,false,false
+monarch_the_brights_task,Light Up Wattissimo with the Brights Puzzmon,true,the_brights,false,false,false
+musical_numbers,Musical Numbers,false,the_brights,false,false,false
+package_delivery,Package Delivery,true,the_brights,false,false,false
+permutations,Permutations,false,the_brights,false,false,false
+pursuit_of_liberty,Pursuit of Liberty,false,the_brights,false,false,false
+puzzmon_picross,Puzzmon Picross,true,the_brights,false,false,false
+puzzmon_spelling_bee,Puzzmon Spelling Bee,true,the_brights,false,false,false
+rearranged,Rearranged,false,the_brights,false,false,false
+rebuild_mistermoon,Rebuild Mistermoon,true,the_brights,false,false,false
+sightseeing,Sightseeing,true,the_brights,false,false,false
+sound_translation,Sound Translation,false,the_brights,false,false,false
+starry_night,Starry Night,false,the_brights,false,false,false
+lights_down_mode,Lights Down Mode,false,the_brights,true,false,false
+ancestry,Ancestry,false,royal_groves,false,false,false
+biology_research_exhibition,Biology Research Exhibition,false,royal_groves,false,false,false
+green_building,Green Building Challenge,true,royal_groves,false,false,false
+health_grass,Health & Wellness: Touch Grass,true,royal_groves,false,false,false
+health_strava,Health & Wellness: Strava Map,true,royal_groves,false,false,false
+health_water,Health & Wellness: Drink Some Water,true,royal_groves,false,false,false
+hide_and_seek_mit,Hide + Seek MIT,true,royal_groves,false,false,false
+hiding_the_trees,Hiding the Trees,true,royal_groves,false,false,false
+i_think_thats_why_they_call_it_that,I Think That's Why They Call It That,false,royal_groves,false,false,false
+mitmh_integration_bee,MITMH Integration Bee,true,royal_groves,false,false,false
+monarch_royal_groves_task,Landscape with the Royal Groves Puzzmon,true,royal_groves,false,false,false
+point_of_divergence,Point of Divergence,false,royal_groves,false,false,false
+rock_on,Rock On,false,royal_groves,false,false,false
+rose_garden,🌹 Garden,false,royal_groves,false,false,false
+seen_at_mit,Seen at MIT,true,royal_groves,false,false,false
+strand_type_game,Strand-Type Game,false,royal_groves,false,false,false
+the_physics_of_linguistic_fracture,The Physics of Linguistic Fracture,false,royal_groves,false,false,false
+v_fun,V-fun,false,royal_groves,false,false,false
+x_marks_the_spot_2,X Marks the Spot: The Vegetable Garden,true,royal_groves,false,false,false
+filial_pie_tree,Filial Pie Tree,false,royal_groves,true,false,false
+a_fake_artist_goes_to_eland_islands,A Fake Artist Goes To Eland Islands,false,eland_islands,false,false,false
+adding_and_abutting,Adding and Abutting,false,eland_islands,false,false,false
+gerrymandering,Gerrymandering,false,eland_islands,false,false,false
+hidden_numbers,Hidden Numbers,false,eland_islands,false,false,false
+jam_session,Jam Session,false,eland_islands,false,false,false
+keep_going,Keep Going!,false,eland_islands,false,false,false
+life_of_a_puzzmon,Life of a Puzzmon,true,eland_islands,false,false,false
+linework,Linework,false,eland_islands,false,false,false
+loch_mystic,Loch Mystic,false,eland_islands,false,false,false
+monarch_eland_islands_task,Run Novabucks with the Eland Islands Puzzmon,true,eland_islands,false,false,false
+nailed_it,Nailed It,false,eland_islands,false,false,false
+next_house,Next House: Where the Sidewalk Ends,true,eland_islands,false,false,false
+people_in_the_main_block,People in the Main Block,false,eland_islands,false,false,false
+puzzmon_rap,Puzzmon Rap,true,eland_islands,false,false,false
+puzzmon_showcase,Puzzmon Showcase,true,eland_islands,false,false,false
+riddled_treasures,Riddled Treasures,true,eland_islands,false,false,false
+squirrel_chase,Squirrel Chase,true,eland_islands,false,false,false
+the_quaking_earth,The Quaking Earth,false,eland_islands,false,false,false
+whos_that_puzzmon,Who's That Puzzmon?,true,eland_islands,false,false,false
+word_compression,Word Compression,false,eland_islands,false,false,false
+unexplored_frontiers,Unexplored Frontiers,false,eland_islands,true,false,false
+civil_service,Civil Service,false,serpentine_hills,false,false,false
+da_bomb,Da' Bomb,false,serpentine_hills,false,false,false
+east_campus,East Campus: Roller Coaster,true,serpentine_hills,false,false,false
+i_do_not,I Do (Not),false,serpentine_hills,false,false,false
+minute_minute_cryptic,Minute Minute Cryptic,false,serpentine_hills,false,false,false
+monarch_serpentine_hills_task,Feed the Serpentine Hills Puzzmon,true,serpentine_hills,false,false,false
+post_mortem_problems,Post-mortem Problems,false,serpentine_hills,false,false,false
+ringing_the_bell,Ringing the Bell,true,serpentine_hills,false,false,false
+road_trip,Road Trip,false,serpentine_hills,false,false,false
+watatsumi_shrine,Watatsumi Shrine,false,serpentine_hills,false,false,false
+australian_caduceus,Australian Caduceus,false,serpentine_hills,true,false,false
+at_the_close,At the Close,false,kingdom_of_the_puzzmon,false,false,true
+how_to_hunt,How To Hunt,true,kingdom_of_the_puzzmon,false,false,false
+to_the_edge,To the Edge,false,kingdom_of_the_puzzmon,false,false,true
+name_that_tune,Name That Tune,false,kingdom_of_the_puzzmon,true,false,false
+let_her_cookbook,Let Her Cook(book)!,false,kingdom_of_the_puzzmon,true,false,false
+mixed_messaging,Mixed Messaging,false,kingdom_of_the_puzzmon,true,false,false
+the_labyrinth,The Labyrinth,false,kingdom_of_the_puzzmon,true,false,false
+monster_mash,Monster Mash,false,kingdom_of_the_puzzmon,true,false,false
+cryptozoologist,Cryptozoologist,false,kingdom_of_the_puzzmon,true,false,false
+chart_your_course,Chart Your Course,false,kingdom_of_the_puzzmon,true,false,false
+town_of_terror,Town of Terror,false,kingdom_of_the_puzzmon,true,false,false
+putting_it_all_together,Putting It All Together,false,kingdom_of_the_puzzmon,true,true,false
+connect_the_clans,Connect the Clans,false,kingdom_of_the_puzzmon,true,true,false
+kingdom_runaround,The Night Swatch,false,kingdom_of_the_puzzmon,false,false,true
+20_years_into_the_future,20 Years Into the Future,false,hyperbolic_space,false,false,false
+acquisitions,Acquisitions,false,hyperbolic_space,false,false,false
+back_and_forth,Back and Forth,false,hyperbolic_space,false,false,false
+bigbrain,Bigbrain,false,hyperbolic_space,false,false,false
+combative_felines,Combative Felines,false,hyperbolic_space,false,false,false
+devilish_devilries,Devilish Devilries,false,hyperbolic_space,false,false,false
+endangered_species,Endangered Species,false,hyperbolic_space,false,false,false
+functions,Functions,false,hyperbolic_space,false,false,false
+genealogy,Genealogy,false,hyperbolic_space,false,false,false
+greener_grass,Greener Grass,false,hyperbolic_space,false,false,false
+had,Had,false,hyperbolic_space,false,false,false
+in_the_air,In the Air,false,hyperbolic_space,false,false,false
+invented_here,Invented Here,false,hyperbolic_space,false,false,false
+invitation,Invitation,false,hyperbolic_space,false,false,false
+make_your_own_boat,Make Your Own Boat,false,hyperbolic_space,false,false,false
+multidimensional_crossword,Multidimensional Crossword,false,hyperbolic_space,false,false,false
+normal_jigsaw,Normal Jigsaw,false,hyperbolic_space,false,false,false
+not_tricked,Not Tricked,false,hyperbolic_space,false,false,false
+pandemic,Pandemic,false,hyperbolic_space,false,false,false
+partners_in_crime,Partners in Crime,false,hyperbolic_space,false,false,false
+setting_boundaries,Setting Boundaries,false,hyperbolic_space,false,false,false
+short_stories,Short Stories,false,hyperbolic_space,false,false,false
+stray_child,Stray Child,false,hyperbolic_space,false,false,false
+trivial_pursuit,Trivial Pursuit,false,hyperbolic_space,false,false,false
+hyperbolic_space,Hyperbolic Space,false,hyperbolic_space,true,true,false
+can_you_really_call_it_a_crossword_if_no_clues,Can you really call it a crossword if...: no clues,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if_no_crosses,Can you really call it a crossword if...: no crosses,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if_no_diagram,Can you really call it a crossword if...: no diagram,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if_no_fill,Can you really call it a crossword if...: no fill,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if_no_grids,Can you really call it a crossword if...: no grids,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if_no_words,Can you really call it a crossword if...: no words,false,terminus,false,false,false
+dichotomies_cs,Dichotomies: CS,false,terminus,false,false,false
+dichotomies_cwt,Dichotomies: CWT,false,terminus,false,false,false
+dichotomies_lm,Dichotomies: LM,false,terminus,false,false,false
+dichotomies_rb,Dichotomies: RB,false,terminus,false,false,false
+dichotomies_rgc,Dichotomies: RGC,false,terminus,false,false,false
+layers_bordered,Layers: Bordered,false,terminus,false,false,false
+layers_bowled,Layers: Bowled,false,terminus,false,false,false
+layers_colored,Layers: Colored,false,terminus,false,false,false
+layers_rounded,Layers: Rounded,false,terminus,false,false,false
+layers_trapezoidal,Layers: Trapezoidal,false,terminus,false,false,false
+psychology_emotion,Psychology: Emotion,false,terminus,false,false,false
+psychology_intelligence,Psychology: Intelligence,false,terminus,false,false,false
+psychology_perception,Psychology: Perception,false,terminus,false,false,false
+psychology_personality,Psychology: Personality,false,terminus,false,false,false
+rgba_alpha,RGBA: Alpha,false,terminus,false,false,false
+rgba_blue,RGBA: Blue,false,terminus,false,false,false
+rgba_green,RGBA: Green,false,terminus,false,false,false
+rgba_red,RGBA: Red,false,terminus,false,false,false
+trends_events,Trends: Events,false,terminus,false,false,false
+trends_finance,Trends: Finance,false,terminus,false,false,false
+trends_foods,Trends: Foods,false,terminus,false,false,false
+trends_names,Trends: Names,false,terminus,false,false,false
+trends_numbers,Trends: Numbers,false,terminus,false,false,false
+trends_sports,Trends: Sports,false,terminus,false,false,false
+trends_words,Trends: Words,false,terminus,false,false,false
+dichotomies,Dichotomies,false,terminus,false,false,false
+rgba,RGBA,false,terminus,false,false,false
+trends,Trends,false,terminus,false,false,false
+layers,Layers,false,terminus,false,false,false
+psychology,Psychology,false,terminus,false,false,false
+can_you_really_call_it_a_crossword_if,Can you really call it a crossword if...,false,terminus,false,false,false
+mixed_media,Mixed Media,false,terminus,true,true,false
+as_the_fly_crows,As the Fly Crows,false,fates_thread_casino,false,false,false
+building_blocks,Building Blocks,false,fates_thread_casino,false,false,false
+charfactor,charfactor,false,fates_thread_casino,false,false,false
+common_scenes,Common Scenes,false,fates_thread_casino,false,false,false
+easy_as_1_22_333,Easy as 1-22-333,false,fates_thread_casino,false,false,false
+goku,Goku,false,fates_thread_casino,false,false,false
+graphs,Graphs,false,fates_thread_casino,false,false,false
+hear_me_out,Hear Me Out,false,fates_thread_casino,false,false,false
+meme_scenes,Meme Scenes,false,fates_thread_casino,false,false,false
+plots,Plots,false,fates_thread_casino,false,false,false
+to_pull_or_not_to_pull,To Pull or Not to Pull?,false,fates_thread_casino,true,true,false
+bite_sized_logic,Bite-sized Logic,false,atlas_of_mosaics,false,false,false
+case_of_the_superhero_dinner_party,The Case of the Superhero Dinner Party,false,atlas_of_mosaics,false,false,false
+crossing_the_unknown,Crossing the Unknown,false,atlas_of_mosaics,false,false,false
+dance_of_the_bumblebee,Dance of the Bumblebee,false,atlas_of_mosaics,false,false,false
+doubles_games,Doubles Games,false,atlas_of_mosaics,false,false,false
+firefly,Firefly,false,atlas_of_mosaics,false,false,false
+inconsequential_chase,Inconsequential Chase,false,atlas_of_mosaics,false,false,false
+lifecycle,Lifecycle,false,atlas_of_mosaics,false,false,false
+on_the_fence,On the Fence,false,atlas_of_mosaics,false,false,false
+the_puzzle_that_cannot_be_named,The Puzzle That Cannot Be Named,false,atlas_of_mosaics,false,false,false
+the_tortured_programmers_department,The Tortured Programmers Department,false,atlas_of_mosaics,false,false,false
+underwater_hunt,Underwater Hunt,false,atlas_of_mosaics,false,false,false
+lines,Lines,false,atlas_of_mosaics,false,false,false
+tree,Tree,false,atlas_of_mosaics,false,false,false
+playlist,Playlist,false,atlas_of_mosaics,false,false,false
+diamonds,Diamonds,false,atlas_of_mosaics,false,false,false
+nicknames,Nicknames,false,atlas_of_mosaics,false,false,false
+twenty_twenty_six,2026,false,atlas_of_mosaics,false,false,false
+the_hexagon,The Hexagon,false,atlas_of_mosaics,true,true,false
+1037,Numbered Clues,false,land_of_no_name,false,false,false
+1259,Bars of Music,false,land_of_no_name,false,false,false
+1736,Unlike Like,false,land_of_no_name,false,false,false
+1906,🍳 Emoji Kitchen,false,land_of_no_name,false,false,false
+2074,SPLIT!,false,land_of_no_name,false,false,false
+2129,Oops! All Tsumo,false,land_of_no_name,false,false,false
+2843,Odd One Out,false,land_of_no_name,false,false,false
+2871,🍓🏔️🎮,false,land_of_no_name,false,false,false
+3175,MIT Dropquotes,false,land_of_no_name,false,false,false
+3842,Six Shifts,false,land_of_no_name,false,false,false
+3961,MIT Mosaic Lab,false,land_of_no_name,false,false,false
+4295,Spires,false,land_of_no_name,false,false,false
+4519,21 D,false,land_of_no_name,false,false,false
+5671,Big String,false,land_of_no_name,false,false,false
+5823,Mass Confusion,false,land_of_no_name,false,false,false
+6147,Calls of the Wild,false,land_of_no_name,false,false,false
+6592,Skilldrasil,false,land_of_no_name,false,false,false
+6714,Almost,false,land_of_no_name,false,false,false
+7480,Pixel Grid,false,land_of_no_name,false,false,false
+7642,ASCII,false,land_of_no_name,false,false,false
+8063,Imaginary Factorizations,false,land_of_no_name,false,false,false
+8402,"Game, ???, Match",false,land_of_no_name,false,false,false
+8904,Triple Threat,false,land_of_no_name,false,false,false
+9283,Recombination,false,land_of_no_name,false,false,false
+9350,Not A QR Code,false,land_of_no_name,false,false,false
+9810,HidAtoZ,false,land_of_no_name,false,false,false
+7182,The Alphabet,false,land_of_no_name,true,true,false
+14_turns,¼ Turns,false,the_glitch,false,false,false
+chemical_building_blocks,Chemical Building Blocks,false,the_glitch,false,false,false
+find_mate,Find M(at)e,false,the_glitch,false,false,false
+oh_my_interesting_alleles,Oh My! Interesting Alleles!,false,the_glitch,false,false,false
+point_of_view,Point of View,false,the_glitch,false,false,false
+re_state_diagram,Re: State Diagram,false,the_glitch,false,false,false
+sets_of_friends,Sets of Friends,false,the_glitch,false,false,false
+sportsball,Sportsball,false,the_glitch,false,false,false
+these_questions_are_not_clever,These Questions Are Not Clever,false,the_glitch,false,false,false
+snalc_eht_tcennoc,snalC ehT tcennoC,false,the_glitch,true,true,false

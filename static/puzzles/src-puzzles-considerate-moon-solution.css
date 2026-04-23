@@ -1,0 +1,72 @@
+.considerate-moon-solution .solution-n-clue {
+  font-size: 0.75rem;
+}
+
+.considerate-moon-solution .solution-n-clue-arrow {
+  font-size: 1rem;
+}
+
+.considerate-moon-solution .solution-clue {
+  font-size: 1rem;
+}
+
+.considerate-moon-solution .solution-clue-arrow {
+  font-size: 1.5rem;
+}
+
+/* Normally I never use important, but I give up here, there's not enough time to make it nice and generalizable and this is only for solutions anyway. */
+.considerate-moon-solution .solution-clue-hexagon-top {
+  width: 52px !important;
+  height: 52px !important;
+  left: 20px !important;
+  top: -40px !important;
+}
+
+.considerate-moon-solution .solution-clue-hexagon-bottom {
+  width: 52px !important;
+  height: 52px !important;
+  left: 19px !important;
+  top: 40px !important;
+}
+
+.considerate-moon-solution .solution-clue-hexagon-left {
+  width: 52px !important;
+  height: 52px !important;
+  left: -50px !important;
+  top: 0 !important;
+}
+
+.considerate-moon-solution .solution-clue-number-bottom {
+  left: 44px !important;
+  top: 56px !important;
+}
+
+.considerate-moon-solution .solution-clue-arrow-bottom {
+  left: 33px !important;
+  top: 40px !important;
+}
+
+.considerate-moon-solution .solution-clue-number-top {
+  left: 46px !important;
+  top: -40px !important;
+}
+
+.considerate-moon-solution .solution-clue-arrow-top {
+  left: 32px !important;
+  top: -24px !important;
+}
+
+.considerate-moon-solution .solution-clue-number-left {
+  left: -38px !important;
+  top: 8px !important;
+}
+
+.considerate-moon-solution .solution-clue-arrow-left {
+  left: -24px !important;
+  top: 8px !important;
+}
+
+.considerate-moon-solution .solution-number-clue {
+  color: white !important;
+  text-shadow: 0 0 4px black;
+}

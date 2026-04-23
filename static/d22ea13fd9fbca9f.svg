@@ -1,0 +1,18 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <marker id="arrow" markerWidth="26" markerHeight="26" refX="20" refY="12" orient="auto">
+    <path d="M4,4 L4,22 L20,12 L4,4"/>
+  </marker>
+  <line x1="300.0" y1="50.0" x2="104.54" y2="144.13" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="104.54" y1="144.13" x2="191.53" y2="525.24" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="191.53" y1="525.24" x2="543.73" y2="355.63" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="543.73" y1="355.63" x2="408.47" y2="525.24" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="408.47" y1="525.24" x2="56.27" y2="355.63" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="56.27" y1="355.63" x2="495.46" y2="144.13" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="300.0" y1="30.0" x2="511.09" y2="131.66" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="511.09" y1="131.66" x2="563.23" y2="360.08" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="563.23" y1="360.08" x2="417.15" y2="543.26" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="417.15" y1="543.26" x2="182.85" y2="543.26" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="182.85" y1="543.26" x2="36.77" y2="360.08" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="36.77" y1="360.08" x2="88.91" y2="131.66" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+  <line x1="88.91" y1="131.66" x2="300.0" y2="30.0" stroke="black" stroke-width="3" stroke-dasharray="6 6"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220">
+<path d="M110,60L60,160" stroke="black" fill="white"/>
+<path d="M110,60L160,160" stroke="black" fill="white"/>
+<circle cx="110" cy="60" r="30" stroke="none" fill="white"/>
+<text x="110" y="60" text-anchor="middle" dominant-baseline="middle" font-size="40" fill="black">O</text>
+<path d="M60,117.57L23.26,181.21L96.74,181.21Z" stroke="black" fill="white"/>
+<text x="60" y="160" text-anchor="middle" dominant-baseline="middle" font-size="15" fill="black">[2nd]</text>
+<path d="M124.7,136.47L124.7,183.53L195.3,183.53L195.3,136.47Z" stroke="black" fill="white"/>
+<text x="160" y="160" text-anchor="middle" dominant-baseline="middle" font-size="15" fill="black">[1st]</text>
+</svg>

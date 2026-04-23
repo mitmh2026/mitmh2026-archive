@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="380" viewBox="0 0 420 380">
+  <rect x="120" y="10" width="180" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="10" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="80" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="220" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="290" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="360" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="10" y="180" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="80" y="180" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="180" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="220" y="180" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="315,176.132 340,190.566 340,219.434 315,233.868 290,219.434 290,190.566" stroke="black" stroke-width="1" fill="none" />
+  <rect x="360" y="180" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="10" y="250" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="105,246.132 130,260.566 130,289.434 105,303.868 80,289.434 80,260.566" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="250" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <g>
+    <polygon points="245,246.132 270,260.566 270,289.434 245,303.868 220,289.434 220,260.566" stroke="black" stroke-width="1" fill="none" />
+    <text x="245" y="275" text-anchor="middle" dominant-baseline="middle" fill="black" font-size="20" >4</text>
+  </g>
+  <rect x="290" y="250" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="385,246.132 410,260.566 410,289.434 385,303.868 360,289.434 360,260.566" stroke="black" stroke-width="1" fill="none" />
+  <rect x="50" y="320" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="215,316.132 240,330.566 240,359.434 215,373.868 190,359.434 190,330.566" stroke="black" stroke-width="1" fill="#FDBA74" />
+  <rect x="330" y="320" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+</svg>

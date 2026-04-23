@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="670" viewBox="0 0 1030 670">
+  <rect x="10" y="10" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="275" cy="35" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="635" cy="35" r="25" stroke="black" stroke-width="1" fill="#FDBA74" />
+  <circle cx="155" cy="85" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="250" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="370" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="755" cy="135" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="970" y="110" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="130" y="210" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="515" cy="235" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="275" cy="285" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="10" y="310" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="395" cy="335" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="635" cy="335" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="875" cy="335" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="970" y="310" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="755" cy="385" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="130" y="410" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="515" cy="435" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="610" y="410" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <g>
+    <circle cx="995" cy="435" r="25" stroke="black" stroke-width="1" fill="none" />
+    <text x="995" y="435" text-anchor="middle" dominant-baseline="middle" fill="black" font-size="20" >1</text>
+  </g>
+  <rect x="250" y="510" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="515" cy="535" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="875" cy="535" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="970" y="510" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="35" cy="635" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="395" cy="635" r="25" stroke="black" stroke-width="1" fill="none" />
+  <rect x="490" y="610" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="755" cy="635" r="25" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="875" cy="635" r="25" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="60,35 250,35" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="300,35 610,35" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="60,35 110,85 130,85" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="420,135 730,135" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="180,235 490,235" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="180,235 230,285 250,285" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="60,335 370,335" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="420,335 610,335" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="660,335 850,335" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="660,435 710,385 730,385" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="180,435 490,435" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="660,435 970,435" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="300,535 490,535" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="540,535 850,535" stroke="black" stroke-width="1" fill="none" />
+</svg>

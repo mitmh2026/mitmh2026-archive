@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810.00" height="850.00"
+     viewBox="0 0 810.00 850.00" font-family='"Ubuntu Sans", "Noto Color Emoji Subset", "Noto Color Emoji", "Inter", Verdana, Helvetica, sans-serif'>
+  <g fill="none">
+    <path d="M275.00,135.00 L675.00,135.00 L675.00,535.00 L535.00,715.00 L135.00,715.00 L135.00,315.00 L275.00,135.00 Z" stroke="black" stroke-width="15" fill="none" stroke-linecap="butt" stroke-linejoin="miter"/>
+<line x1="275.00" y1="135.00" x2="275.00" y2="535.00" stroke="black" stroke-width="15" />
+<line x1="675.00" y1="535.00" x2="275.00" y2="535.00" stroke="black" stroke-width="15" />
+<line x1="135.00" y1="715.00" x2="275.00" y2="535.00" stroke="black" stroke-width="15" />
+<line x1="535.00" y1="715.00" x2="535.00" y2="315.00" stroke="black" stroke-width="15" />
+<line x1="135.00" y1="315.00" x2="535.00" y2="315.00" stroke="black" stroke-width="15" />
+<line x1="675.00" y1="135.00" x2="535.00" y2="315.00" stroke="black" stroke-width="15" />
+    <line x1="155.00" y1="135.00" x2="275.00" y2="135.00" stroke="black" stroke-width="2" />
+    <text x="475.00" y="89.50" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">x₁</text>
+    <line x1="675.00" y1="535.00" x2="735.00" y2="535.00" stroke="black" stroke-width="2" />
+    <text x="405.00" y="570.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">x₁</text>
+    <line x1="15.00" y1="315.00" x2="135.00" y2="315.00" stroke="black" stroke-width="2" />
+    <line x1="535.00" y1="315.00" x2="655.00" y2="315.00" stroke="black" stroke-width="2" />
+    <text x="405.00" y="269.50" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">x₁</text>
+    <line x1="15.00" y1="715.00" x2="135.00" y2="715.00" stroke="black" stroke-width="2" />
+    <text x="335.00" y="750.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">x₁</text>
+    <line x1="312.00" y1="88.00" x2="275.00" y2="135.00" stroke="black" stroke-width="2" />
+    <line x1="135.00" y1="315.00" x2="61.00" y2="409.00" stroke="black" stroke-width="2" />
+    <text x="169.08" y="197.07" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">y₁</text>
+    <line x1="349.00" y1="441.00" x2="275.00" y2="535.00" stroke="black" stroke-width="2" />
+    <line x1="135.00" y1="715.00" x2="61.00" y2="809.00" stroke="black" stroke-width="2" />
+    <text x="232.63" y="646.49" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">y₁</text>
+    <line x1="712.00" y1="88.00" x2="675.00" y2="135.00" stroke="black" stroke-width="2" />
+    <line x1="535.00" y1="315.00" x2="461.00" y2="409.00" stroke="black" stroke-width="2" />
+    <text x="569.08" y="197.07" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">y₁</text>
+    <line x1="535.00" y1="715.00" x2="461.00" y2="809.00" stroke="black" stroke-width="2" />
+    <text x="632.63" y="646.49" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">y₁</text>
+    <line x1="275.00" y1="75.00" x2="275.00" y2="135.00" stroke="black" stroke-width="2" />
+    <line x1="275.00" y1="535.00" x2="275.00" y2="595.00" stroke="black" stroke-width="2" />
+    <text x="240.00" y="425.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">z₁</text>
+    <line x1="135.00" y1="195.00" x2="135.00" y2="315.00" stroke="black" stroke-width="2" />
+    <line x1="135.00" y1="715.00" x2="135.00" y2="835.00" stroke="black" stroke-width="2" />
+    <text x="100.00" y="515.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">z₁</text>
+    <line x1="675.00" y1="535.00" x2="675.00" y2="655.00" stroke="black" stroke-width="2" />
+    <text x="710.00" y="335.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">z₁</text>
+    <line x1="535.00" y1="255.00" x2="535.00" y2="315.00" stroke="black" stroke-width="2" />
+    <line x1="535.00" y1="715.00" x2="535.00" y2="775.00" stroke="black" stroke-width="2" />
+    <text x="570.00" y="425.00" font-size="50" dominant-baseline="middle" text-anchor="middle" fill="black">z₁</text>
+  </g>
+</svg>

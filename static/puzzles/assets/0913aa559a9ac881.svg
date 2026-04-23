@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470">
+  <rect x="75" y="135" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="20" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="75,135 70,130 50,130" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="125,135 130,130 150,130" stroke="black" stroke-width="1" fill="none" />
+  <rect x="20" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="75,185 70,190 50,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="125,185 130,190 150,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="335" y="135" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="280" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="335,135 330,130 310,130" stroke="black" stroke-width="1" fill="none" />
+  <rect x="280" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="335,185 330,190 310,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="410" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="385,185 390,190 410,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="595" y="135" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <g>
+    <rect x="540" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+    <text x="555" y="135" text-anchor="middle" dominant-baseline="middle" fill="black" font-size="20" >6</text>
+  </g>
+  <polyline points="595,135 590,130 570,130" stroke="black" stroke-width="1" fill="none" />
+  <rect x="540" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="595,185 590,190 570,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="670" y="170" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="645,185 650,190 670,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="75" y="255" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="20" y="240" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="75,255 70,250 50,250" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="240" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="125,255 130,250 150,250" stroke="black" stroke-width="1" fill="none" />
+  <rect x="20" y="290" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="75,305 70,310 50,310" stroke="black" stroke-width="1" fill="none" />
+  <rect x="150" y="290" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="125,305 130,310 150,310" stroke="black" stroke-width="1" fill="none" />
+  <rect x="595" y="255" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="540" y="240" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="595,255 590,250 570,250" stroke="black" stroke-width="1" fill="none" />
+  <rect x="670" y="240" width="30" height="30" stroke="black" stroke-width="1" fill="#FDBA74" />
+  <polyline points="645,255 650,250 670,250" stroke="black" stroke-width="1" fill="none" />
+  <rect x="540" y="290" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="595,305 590,310 570,310" stroke="black" stroke-width="1" fill="none" />
+  <rect x="670" y="290" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="645,305 650,310 670,310" stroke="black" stroke-width="1" fill="none" />
+  <rect x="75" y="375" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="335" y="375" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="280" y="385" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="335,400 310,400" stroke="black" stroke-width="1" fill="none" />
+  <rect x="410" y="385" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="385,400 410,400" stroke="black" stroke-width="1" fill="none" />
+  <rect x="595" y="375" width="50" height="50" stroke="black" stroke-width="1" fill="none" />
+  <rect x="540" y="385" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="595,400 570,400" stroke="black" stroke-width="1" fill="none" />
+  <rect x="670" y="385" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="645,400 670,400" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="100,14.6447 135.355,50 100,85.3553 64.6447,50" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="100,85.3553 100,135" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="230,14.6447 265.355,50 230,85.3553 194.645,50" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="222.929,78.2843 201.213,100 125,100 110,115 110,135" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="490,14.6447 525.355,50 490,85.3553 454.645,50" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="482.929,78.2843 461.213,100 375,100 360,115 360,135" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="497.071,78.2843 518.787,100 605,100 620,115 620,135" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="100,185 100,255" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="360,185 360,375" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="620,185 620,255" stroke="black" stroke-width="1" fill="none" />
+  <rect x="215" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="235,150 235,175 250,190 280,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="475" y="120" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="495,150 495,175 510,190 540,190" stroke="black" stroke-width="1" fill="none" />
+  <rect x="215" y="240" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="225,270 225,295 210,310 180,310" stroke="black" stroke-width="1" fill="none" />
+  <rect x="230" y="385" width="30" height="30" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="260,415 275,430 330,430 335,425" stroke="black" stroke-width="1" fill="none" />
+</svg>

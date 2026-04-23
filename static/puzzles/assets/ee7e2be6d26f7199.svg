@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="676" height="350" viewBox="0 0 676 350">
+  <polygon points="35,6.13249 60,20.5662 60,49.4338 35,63.8675 10,49.4338 10,20.5662" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="277.487,6.13249 302.487,20.5662 302.487,49.4338 277.487,63.8675 252.487,49.4338 252.487,20.5662" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="519.974,6.13249 544.974,20.5662 544.974,49.4338 519.974,63.8675 494.974,49.4338 494.974,20.5662" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="277.487,76.1325 302.487,90.5662 302.487,119.434 277.487,133.868 252.487,119.434 252.487,90.5662" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="641.218,76.1325 666.218,90.5662 666.218,119.434 641.218,133.868 616.218,119.434 616.218,90.5662" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="35,146.132 60,160.566 60,189.434 35,203.868 10,189.434 10,160.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="156.244,146.132 181.244,160.566 181.244,189.434 156.244,203.868 131.244,189.434 131.244,160.566" stroke="black" stroke-width="1" fill="#FDBA74" />
+  <polygon points="398.731,146.132 423.731,160.566 423.731,189.434 398.731,203.868 373.731,189.434 373.731,160.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="156.244,216.132 181.244,230.566 181.244,259.434 156.244,273.868 131.244,259.434 131.244,230.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="398.731,216.132 423.731,230.566 423.731,259.434 398.731,273.868 373.731,259.434 373.731,230.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="641.218,216.132 666.218,230.566 666.218,259.434 641.218,273.868 616.218,259.434 616.218,230.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="35,286.132 60,300.566 60,329.434 35,343.868 10,329.434 10,300.566" stroke="black" stroke-width="1" fill="none" />
+  <g>
+    <polygon points="277.487,286.132 302.487,300.566 302.487,329.434 277.487,343.868 252.487,329.434 252.487,300.566" stroke="black" stroke-width="1" fill="none" />
+    <text x="277.487" y="315" text-anchor="middle" dominant-baseline="middle" fill="black" font-size="20" >8</text>
+  </g>
+  <polygon points="398.731,286.132 423.731,300.566 423.731,329.434 398.731,343.868 373.731,329.434 373.731,300.566" stroke="black" stroke-width="1" fill="none" />
+  <polygon points="519.974,286.132 544.974,300.566 544.974,329.434 519.974,343.868 494.974,329.434 494.974,300.566" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="60,35 252.487,35" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="302.487,35 494.974,35" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="302.487,105 616.218,105" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="181.244,175 373.731,175" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="423.731,245 616.218,245" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="131.244,259.434 60,300.566" stroke="black" stroke-width="1" fill="none" />
+  <polyline points="181.244,259.434 252.487,300.566" stroke="black" stroke-width="1" fill="none" />
+</svg>
