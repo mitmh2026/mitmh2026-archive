@@ -15,11 +15,11 @@
     "file": "assets/00f8a70d28c6ab78.mp4",
     "src": "_00f8a70d28c6ab78.mp4"
   },
-  "_00uIzIVf.mjs": {
-    "file": "00uIzIVf.mjs",
+  "_00uIzIVf.js": {
+    "file": "00uIzIVf.js",
     "name": "index",
     "imports": [
-      "_Cqdl_uWg.mjs"
+      "_Cqdl_uWg.js"
     ]
   },
   "_0164425614bce7cf.png": {
@@ -2934,21 +2934,21 @@
     "file": "assets/8fb8b69323b9fa69.png",
     "src": "_8fb8b69323b9fa69.png"
   },
-  "_8izHJ_gg.mjs": {
-    "file": "8izHJ_gg.mjs",
+  "_8izHJ_gg.js": {
+    "file": "8izHJ_gg.js",
     "name": "__vite-browser-external",
     "isDynamicEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js"
     ]
   },
-  "_8lrfSi8Z.mjs": {
-    "file": "8lrfSi8Z.mjs",
+  "_8lrfSi8Z.js": {
+    "file": "8lrfSi8Z.js",
     "name": "index",
     "imports": [
-      "_Cqdl_uWg.mjs"
+      "_Cqdl_uWg.js"
     ]
   },
   "_901a9ec4bad313f3.png": {
@@ -3215,66 +3215,66 @@
     "file": "assets/9fd377e30eb24833.png",
     "src": "_9fd377e30eb24833.png"
   },
-  "_C6EA9rzd.mjs": {
-    "file": "C6EA9rzd.mjs",
+  "_C6EA9rzd.js": {
+    "file": "C6EA9rzd.js",
     "name": "monsterData"
   },
-  "_CHMkij4t.mjs": {
-    "file": "CHMkij4t.mjs",
+  "_CHMkij4t.js": {
+    "file": "CHMkij4t.js",
     "name": "types"
   },
-  "_CPm4UabO.mjs": {
-    "file": "CPm4UabO.mjs",
+  "_CPm4UabO.js": {
+    "file": "CPm4UabO.js",
     "name": "index",
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CyHnzWK1.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_8lrfSi8Z.js",
+      "_CyHnzWK1.js"
     ]
   },
-  "_CRmarH58.mjs": {
-    "file": "CRmarH58.mjs",
+  "_CRmarH58.js": {
+    "file": "CRmarH58.js",
     "name": "index.es"
   },
-  "_Cqdl_uWg.mjs": {
-    "file": "Cqdl_uWg.mjs",
+  "_Cqdl_uWg.js": {
+    "file": "Cqdl_uWg.js",
     "name": "index"
   },
-  "_CyHnzWK1.mjs": {
-    "file": "CyHnzWK1.mjs",
+  "_CyHnzWK1.js": {
+    "file": "CyHnzWK1.js",
     "name": "index",
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8lrfSi8Z.js"
     ]
   },
-  "_D5HYZvmI.mjs": {
-    "file": "D5HYZvmI.mjs",
+  "_D5HYZvmI.js": {
+    "file": "D5HYZvmI.js",
     "name": "FontTable",
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_8lrfSi8Z.js"
     ],
     "css": [
       "FontTable.css"
     ]
   },
-  "_DGHxrElc.mjs": {
-    "file": "DGHxrElc.mjs",
+  "_DGHxrElc.js": {
+    "file": "DGHxrElc.js",
     "name": "index"
   },
-  "_Dc4MrPm0.mjs": {
-    "file": "Dc4MrPm0.mjs",
+  "_Dc4MrPm0.js": {
+    "file": "Dc4MrPm0.js",
     "name": "processData",
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CRmarH58.mjs",
-      "_DGHxrElc.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js",
+      "_CRmarH58.js",
+      "_DGHxrElc.js"
     ]
   },
   "_FontTable.css": {
@@ -5110,48 +5110,48 @@
     "src": "_font.css"
   },
   "src/puzzles/arctic-bottle/solution.client.tsx": {
-    "file": "B4v59xKs.mjs",
+    "file": "B4v59xKs.js",
     "name": "src-puzzles-arctic-bottle-solution.client",
     "src": "src/puzzles/arctic-bottle/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/aromatic-deck/puzzle.client.tsx": {
-    "file": "yX2dYjOJ.mjs",
+    "file": "yX2dYjOJ.js",
     "name": "src-puzzles-aromatic-deck-puzzle.client",
     "src": "src/puzzles/aromatic-deck/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/bad-lip-reading/solution.client.tsx": {
-    "file": "X_s6j8y3.mjs",
+    "file": "X_s6j8y3.js",
     "name": "src-puzzles-bad-lip-reading-solution.client",
     "src": "src/puzzles/bad-lip-reading/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/boop-it/boop.client.tsx": {
-    "file": "Ce6CAQc9.mjs",
+    "file": "Ce6CAQc9.js",
     "name": "src-puzzles-boop-it-boop.client",
     "src": "src/puzzles/boop-it/boop.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/bowed-key/solution.client.tsx": {
-    "file": "D86n-uY5.mjs",
+    "file": "D86n-uY5.js",
     "name": "src-puzzles-bowed-key-solution.client",
     "src": "src/puzzles/bowed-key/solution.client.tsx",
     "isEntry": true,
@@ -5160,52 +5160,52 @@
     ]
   },
   "src/puzzles/bubble-cove-typing/puzzle.client.tsx": {
-    "file": "DNFwrLNV.mjs",
+    "file": "DNFwrLNV.js",
     "name": "src-puzzles-bubble-cove-typing-puzzle.client",
     "src": "src/puzzles/bubble-cove-typing/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/campus-visit/campus.client.tsx": {
-    "file": "8MhoIEDz.mjs",
+    "file": "8MhoIEDz.js",
     "name": "src-puzzles-campus-visit-campus.client",
     "src": "src/puzzles/campus-visit/campus.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/collect-em-all/solution.client.tsx": {
-    "file": "CyKXm2g8.mjs",
+    "file": "CyKXm2g8.js",
     "name": "src-puzzles-collect-em-all-solution.client",
     "src": "src/puzzles/collect-em-all/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/considerate-moon/puzzle.client.tsx": {
-    "file": "CLdE_ESP.mjs",
+    "file": "CLdE_ESP.js",
     "name": "src-puzzles-considerate-moon-puzzle.client",
     "src": "src/puzzles/considerate-moon/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CRmarH58.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs",
-      "_DGHxrElc.mjs"
+      "_Cqdl_uWg.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js",
+      "_CRmarH58.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js",
+      "_DGHxrElc.js"
     ]
   },
   "src/puzzles/considerate-moon/solution.client.tsx": {
-    "file": "JyWqLQTO.mjs",
+    "file": "JyWqLQTO.js",
     "name": "src-puzzles-considerate-moon-solution.client",
     "src": "src/puzzles/considerate-moon/solution.client.tsx",
     "isEntry": true,
@@ -5217,211 +5217,211 @@
     ]
   },
   "src/puzzles/cool-jet/puzzle.client.tsx": {
-    "file": "DMcToxpq.mjs",
+    "file": "DMcToxpq.js",
     "name": "src-puzzles-cool-jet-puzzle.client",
     "src": "src/puzzles/cool-jet/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/courteous-roulette/puzzle.client.tsx": {
-    "file": "BN_y8ALm.mjs",
+    "file": "BN_y8ALm.js",
     "name": "src-puzzles-courteous-roulette-puzzle.client",
     "src": "src/puzzles/courteous-roulette/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs"
+      "_Cqdl_uWg.js"
     ]
   },
   "src/puzzles/create-smoot/solution.client.tsx": {
-    "file": "CFMccJNb.mjs",
+    "file": "CFMccJNb.js",
     "name": "src-puzzles-create-smoot-solution.client",
     "src": "src/puzzles/create-smoot/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/crochet-egg/solution.client.tsx": {
-    "file": "D-RuntFw.mjs",
+    "file": "D-RuntFw.js",
     "name": "src-puzzles-crochet-egg-solution.client",
     "src": "src/puzzles/crochet-egg/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/cryptids-exposed/solution.client.tsx": {
-    "file": "03CBD9VP.mjs",
+    "file": "03CBD9VP.js",
     "name": "src-puzzles-cryptids-exposed-solution.client",
     "src": "src/puzzles/cryptids-exposed/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/cumbersome-nail/solution.client.tsx": {
-    "file": "BbopDOFa.mjs",
+    "file": "BbopDOFa.js",
     "name": "src-puzzles-cumbersome-nail-solution.client",
     "src": "src/puzzles/cumbersome-nail/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/dapper-nail/puzzle.client.tsx": {
-    "file": "DCQqkJpZ.mjs",
+    "file": "DCQqkJpZ.js",
     "name": "src-puzzles-dapper-nail-puzzle.client",
     "src": "src/puzzles/dapper-nail/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_C6EA9rzd.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_C6EA9rzd.js"
     ]
   },
   "src/puzzles/deserted-post/puzzle.client.tsx": {
-    "file": "B6e2DW8h.mjs",
+    "file": "B6e2DW8h.js",
     "name": "src-puzzles-deserted-post-puzzle.client",
     "src": "src/puzzles/deserted-post/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/digital-penguin/puzzle.client.tsx": {
-    "file": "qgrsBCcr.mjs",
+    "file": "qgrsBCcr.js",
     "name": "src-puzzles-digital-penguin-puzzle.client",
     "src": "src/puzzles/digital-penguin/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-baker/solution.client.tsx": {
-    "file": "mZEO6JYW.mjs",
+    "file": "mZEO6JYW.js",
     "name": "src-puzzles-dorm-baker-solution.client",
     "src": "src/puzzles/dorm-baker/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-burton-conner/bc.client.tsx": {
-    "file": "lzvJfZje.mjs",
+    "file": "lzvJfZje.js",
     "name": "src-puzzles-dorm-burton-conner-bc.client",
     "src": "src/puzzles/dorm-burton-conner/bc.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-east/solution.client.tsx": {
-    "file": "B1jqNLx5.mjs",
+    "file": "B1jqNLx5.js",
     "name": "src-puzzles-dorm-east-solution.client",
     "src": "src/puzzles/dorm-east/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-macgregor/solution.client.tsx": {
-    "file": "BMfqFPYK.mjs",
+    "file": "BMfqFPYK.js",
     "name": "src-puzzles-dorm-macgregor-solution.client",
     "src": "src/puzzles/dorm-macgregor/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-maseeh/solution.client.tsx": {
-    "file": "BwyITrvi.mjs",
+    "file": "BwyITrvi.js",
     "name": "src-puzzles-dorm-maseeh-solution.client",
     "src": "src/puzzles/dorm-maseeh/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-mccormick/solution.client.tsx": {
-    "file": "B0FOfvED.mjs",
+    "file": "B0FOfvED.js",
     "name": "src-puzzles-dorm-mccormick-solution.client",
     "src": "src/puzzles/dorm-mccormick/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-new-vassar/solution.client.tsx": {
-    "file": "bMrbh0k4.mjs",
+    "file": "bMrbh0k4.js",
     "name": "src-puzzles-dorm-new-vassar-solution.client",
     "src": "src/puzzles/dorm-new-vassar/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-next/solution.client.tsx": {
-    "file": "Cq60wbu5.mjs",
+    "file": "Cq60wbu5.js",
     "name": "src-puzzles-dorm-next-solution.client",
     "src": "src/puzzles/dorm-next/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-random/solution.client.tsx": {
-    "file": "Bpf6yGwl.mjs",
+    "file": "Bpf6yGwl.js",
     "name": "src-puzzles-dorm-random-solution.client",
     "src": "src/puzzles/dorm-random/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/dorm-simmons/solution.client.tsx": {
-    "file": "DW57ipfZ.mjs",
+    "file": "DW57ipfZ.js",
     "name": "src-puzzles-dorm-simmons-solution.client",
     "src": "src/puzzles/dorm-simmons/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/drafty-pyramid/puzzle.client.tsx": {
-    "file": "BMThDCEq.mjs",
+    "file": "BMThDCEq.js",
     "name": "src-puzzles-drafty-pyramid-puzzle.client",
     "src": "src/puzzles/drafty-pyramid/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_CyHnzWK1.mjs",
-      "_DGHxrElc.mjs",
-      "_C6EA9rzd.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_CyHnzWK1.js",
+      "_DGHxrElc.js",
+      "_C6EA9rzd.js"
     ]
   },
   "src/puzzles/eager-heart/solution.client.tsx": {
-    "file": "DvDk8lhJ.mjs",
+    "file": "DvDk8lhJ.js",
     "name": "src-puzzles-eager-heart-solution.client",
     "src": "src/puzzles/eager-heart/solution.client.tsx",
     "isEntry": true,
@@ -5430,199 +5430,199 @@
     ]
   },
   "src/puzzles/field-day/solution.client.tsx": {
-    "file": "BMRGqqdY.mjs",
+    "file": "BMRGqqdY.js",
     "name": "src-puzzles-field-day-solution.client",
     "src": "src/puzzles/field-day/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/fowl-bounce-puzzle/fowl-bounce.client.tsx": {
-    "file": "C8VUob86.mjs",
+    "file": "C8VUob86.js",
     "name": "src-puzzles-fowl-bounce-puzzle-fowl-bounce.client",
     "src": "src/puzzles/fowl-bounce-puzzle/fowl-bounce.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/frankenstein-food/solution.client.tsx": {
-    "file": "D481VbyN.mjs",
+    "file": "D481VbyN.js",
     "name": "src-puzzles-frankenstein-food-solution.client",
     "src": "src/puzzles/frankenstein-food/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/frankenstein-paper/solution.client.tsx": {
-    "file": "Bzn4tlti.mjs",
+    "file": "Bzn4tlti.js",
     "name": "src-puzzles-frankenstein-paper-solution.client",
     "src": "src/puzzles/frankenstein-paper/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/frankenstein-shadow/solution.client.tsx": {
-    "file": "BFdparLx.mjs",
+    "file": "BFdparLx.js",
     "name": "src-puzzles-frankenstein-shadow-solution.client",
     "src": "src/puzzles/frankenstein-shadow/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/frosty-blitz-puzzle/frosty-blitz.client.tsx": {
-    "file": "BVZ6_gz3.mjs",
+    "file": "BVZ6_gz3.js",
     "name": "src-puzzles-frosty-blitz-puzzle-frosty-blitz.client",
     "src": "src/puzzles/frosty-blitz-puzzle/frosty-blitz.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/gracious-bottle/puzzle.client.tsx": {
-    "file": "B7t_yZAM.mjs",
+    "file": "B7t_yZAM.js",
     "name": "src-puzzles-gracious-bottle-puzzle.client",
     "src": "src/puzzles/gracious-bottle/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/grimy-strike/solution.client.tsx": {
-    "file": "CX9KM5e0.mjs",
+    "file": "CX9KM5e0.js",
     "name": "src-puzzles-grimy-strike-solution.client",
     "src": "src/puzzles/grimy-strike/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/habitat-building/puzzle.client.tsx": {
-    "file": "OU4W9v4Z.mjs",
+    "file": "OU4W9v4Z.js",
     "name": "src-puzzles-habitat-building-puzzle.client",
     "src": "src/puzzles/habitat-building/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/health-animal/solution.client.tsx": {
-    "file": "Brm3-qj8.mjs",
+    "file": "Brm3-qj8.js",
     "name": "src-puzzles-health-animal-solution.client",
     "src": "src/puzzles/health-animal/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/health-grass/solution.client.tsx": {
-    "file": "CUmGFLu0.mjs",
+    "file": "CUmGFLu0.js",
     "name": "src-puzzles-health-grass-solution.client",
     "src": "src/puzzles/health-grass/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/health-strava/solution.client.tsx": {
-    "file": "Co3blmp6.mjs",
+    "file": "Co3blmp6.js",
     "name": "src-puzzles-health-strava-solution.client",
     "src": "src/puzzles/health-strava/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/health-vegetable/solution.client.tsx": {
-    "file": "DpeCLZs-.mjs",
+    "file": "DpeCLZs-.js",
     "name": "src-puzzles-health-vegetable-solution.client",
     "src": "src/puzzles/health-vegetable/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/health-water/solution.client.tsx": {
-    "file": "CCNTLUUf.mjs",
+    "file": "CCNTLUUf.js",
     "name": "src-puzzles-health-water-solution.client",
     "src": "src/puzzles/health-water/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/hidden-task/captcha.client.tsx": {
-    "file": "em61OerP.mjs",
+    "file": "em61OerP.js",
     "name": "src-puzzles-hidden-task-captcha.client",
     "src": "src/puzzles/hidden-task/captcha.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/hollow-tick/solution.client.tsx": {
-    "file": "BGjYe1SX.mjs",
+    "file": "BGjYe1SX.js",
     "name": "src-puzzles-hollow-tick-solution.client",
     "src": "src/puzzles/hollow-tick/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/humming-knife/solution.client.tsx": {
-    "file": "B97R9xQC.mjs",
+    "file": "B97R9xQC.js",
     "name": "src-puzzles-humming-knife-solution.client",
     "src": "src/puzzles/humming-knife/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/humming-string/puzzle.client.tsx": {
-    "file": "eDXEH0Ky.mjs",
+    "file": "eDXEH0Ky.js",
     "name": "src-puzzles-humming-string-puzzle.client",
     "src": "src/puzzles/humming-string/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CHMkij4t.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CHMkij4t.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/illiterate-london/puzzle.client.tsx": {
-    "file": "CYu5xAhb.mjs",
+    "file": "CYu5xAhb.js",
     "name": "src-puzzles-illiterate-london-puzzle.client",
     "src": "src/puzzles/illiterate-london/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/imaginative-force/solution.client.tsx": {
-    "file": "C8HlJiR5.mjs",
+    "file": "C8HlJiR5.js",
     "name": "src-puzzles-imaginative-force-solution.client",
     "src": "src/puzzles/imaginative-force/solution.client.tsx",
     "isEntry": true,
@@ -5631,572 +5631,572 @@
     ]
   },
   "src/puzzles/inborn-wake/puzzle.client.tsx": {
-    "file": "BSLA4rIh.mjs",
+    "file": "BSLA4rIh.js",
     "name": "src-puzzles-inborn-wake-puzzle.client",
     "src": "src/puzzles/inborn-wake/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/inferior-shot/puzzle.client.tsx": {
-    "file": "DqrHX3S8.mjs",
+    "file": "DqrHX3S8.js",
     "name": "src-puzzles-inferior-shot-puzzle.client",
     "src": "src/puzzles/inferior-shot/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/integration-bee/puzzle.client.tsx": {
-    "file": "Db2j1kUK.mjs",
+    "file": "Db2j1kUK.js",
     "name": "src-puzzles-integration-bee-puzzle.client",
     "src": "src/puzzles/integration-bee/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/jet-lag/quiz.client.tsx": {
-    "file": "8cgmv8e9.mjs",
+    "file": "8cgmv8e9.js",
     "name": "src-puzzles-jet-lag-quiz.client",
     "src": "src/puzzles/jet-lag/quiz.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/journal-with/puzzle.client.tsx": {
-    "file": "CN0uz1j6.mjs",
+    "file": "CN0uz1j6.js",
     "name": "src-puzzles-journal-with-puzzle.client",
     "src": "src/puzzles/journal-with/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/keen-skyscraper/puzzle.client.tsx": {
-    "file": "BbkmMSe1.mjs",
+    "file": "BbkmMSe1.js",
     "name": "src-puzzles-keen-skyscraper-puzzle.client",
     "src": "src/puzzles/keen-skyscraper/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/kingdom-runaround/puzzle.client.tsx": {
-    "file": "Cf3LZU1u.mjs",
+    "file": "Cf3LZU1u.js",
     "name": "src-puzzles-kingdom-runaround-puzzle.client",
     "src": "src/puzzles/kingdom-runaround/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_DGHxrElc.mjs",
-      "_00uIzIVf.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CRmarH58.mjs",
-      "_CHMkij4t.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_DGHxrElc.js",
+      "_00uIzIVf.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js",
+      "_CRmarH58.js",
+      "_CHMkij4t.js"
     ]
   },
   "src/puzzles/kitty-city-photo-album/puzzle.client.tsx": {
-    "file": "DB5xojl9.mjs",
+    "file": "DB5xojl9.js",
     "name": "src-puzzles-kitty-city-photo-album-puzzle.client",
     "src": "src/puzzles/kitty-city-photo-album/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/large-moscow-bordered/puzzle.client.tsx": {
-    "file": "sHLSKvvq.mjs",
+    "file": "sHLSKvvq.js",
     "name": "src-puzzles-large-moscow-bordered-puzzle.client",
     "src": "src/puzzles/large-moscow-bordered/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_Dc4MrPm0.mjs"
+      "_Cqdl_uWg.js",
+      "_Dc4MrPm0.js"
     ]
   },
   "src/puzzles/large-moscow-bowled/puzzle.client.tsx": {
-    "file": "CE6_vidg.mjs",
+    "file": "CE6_vidg.js",
     "name": "src-puzzles-large-moscow-bowled-puzzle.client",
     "src": "src/puzzles/large-moscow-bowled/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_Dc4MrPm0.mjs"
+      "_Cqdl_uWg.js",
+      "_Dc4MrPm0.js"
     ]
   },
   "src/puzzles/large-moscow-colored/puzzle.client.tsx": {
-    "file": "cum5YoyA.mjs",
+    "file": "cum5YoyA.js",
     "name": "src-puzzles-large-moscow-colored-puzzle.client",
     "src": "src/puzzles/large-moscow-colored/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_Dc4MrPm0.mjs"
+      "_Cqdl_uWg.js",
+      "_Dc4MrPm0.js"
     ]
   },
   "src/puzzles/large-moscow-rounded/puzzle.client.tsx": {
-    "file": "Bd0HD00d.mjs",
+    "file": "Bd0HD00d.js",
     "name": "src-puzzles-large-moscow-rounded-puzzle.client",
     "src": "src/puzzles/large-moscow-rounded/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_Dc4MrPm0.mjs"
+      "_Cqdl_uWg.js",
+      "_Dc4MrPm0.js"
     ]
   },
   "src/puzzles/large-moscow-trapezoidal/puzzle.client.tsx": {
-    "file": "Dq5T9bYQ.mjs",
+    "file": "Dq5T9bYQ.js",
     "name": "src-puzzles-large-moscow-trapezoidal-puzzle.client",
     "src": "src/puzzles/large-moscow-trapezoidal/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_Dc4MrPm0.mjs"
+      "_Cqdl_uWg.js",
+      "_Dc4MrPm0.js"
     ]
   },
   "src/puzzles/life-of-a-puzzmon/solution.client.tsx": {
-    "file": "Bo9r7YPO.mjs",
+    "file": "Bo9r7YPO.js",
     "name": "src-puzzles-life-of-a-puzzmon-solution.client",
     "src": "src/puzzles/life-of-a-puzzmon/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/marvelous-comic/puzzle.client.tsx": {
-    "file": "pks6AFuC.mjs",
+    "file": "pks6AFuC.js",
     "name": "src-puzzles-marvelous-comic-puzzle.client",
     "src": "src/puzzles/marvelous-comic/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CyHnzWK1.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CyHnzWK1.js"
     ]
   },
   "src/puzzles/mild-london/assets/emulator.js": {
-    "file": "BCUbA1JG.mjs",
+    "file": "BCUbA1JG.js",
     "name": "emulator",
     "src": "src/puzzles/mild-london/assets/emulator.js",
     "isDynamicEntry": true,
     "dynamicImports": [
-      "_8izHJ_gg.mjs"
+      "_8izHJ_gg.js"
     ]
   },
   "src/puzzles/mild-london/emulator.client.tsx": {
-    "file": "Dl3fhZsy.mjs",
+    "file": "Dl3fhZsy.js",
     "name": "src-puzzles-mild-london-emulator.client",
     "src": "src/puzzles/mild-london/emulator.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js"
     ],
     "dynamicImports": [
       "src/puzzles/mild-london/assets/emulator.js"
     ]
   },
   "src/puzzles/mithenge/solution.client.tsx": {
-    "file": "D_iEtrWE.mjs",
+    "file": "D_iEtrWE.js",
     "name": "src-puzzles-mithenge-solution.client",
     "src": "src/puzzles/mithenge/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/needy-track/puzzle.client.tsx": {
-    "file": "Dd9wxEze.mjs",
+    "file": "Dd9wxEze.js",
     "name": "src-puzzles-needy-track-puzzle.client",
     "src": "src/puzzles/needy-track/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/nonogram-puzzle/nonogram.client.tsx": {
-    "file": "DL85bpUR.mjs",
+    "file": "DL85bpUR.js",
     "name": "src-puzzles-nonogram-puzzle-nonogram.client",
     "src": "src/puzzles/nonogram-puzzle/nonogram.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/novabucks/puzzle.client.tsx": {
-    "file": "BOjxwfMS.mjs",
+    "file": "BOjxwfMS.js",
     "name": "src-puzzles-novabucks-puzzle.client",
     "src": "src/puzzles/novabucks/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/paltry-paste/puzzle.client.tsx": {
-    "file": "C_VFSrSq.mjs",
+    "file": "C_VFSrSq.js",
     "name": "src-puzzles-paltry-paste-puzzle.client",
     "src": "src/puzzles/paltry-paste/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ],
     "css": [
       "src-puzzles-paltry-paste-puzzle.css"
     ]
   },
   "src/puzzles/peaceful-slip/puzzle.client.tsx": {
-    "file": "DaRl4yFR.mjs",
+    "file": "DaRl4yFR.js",
     "name": "src-puzzles-peaceful-slip-puzzle.client",
     "src": "src/puzzles/peaceful-slip/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ],
     "css": [
       "font.css"
     ]
   },
   "src/puzzles/peaceful-slip/solution.client.tsx": {
-    "file": "CZ19tOhF.mjs",
+    "file": "CZ19tOhF.js",
     "name": "src-puzzles-peaceful-slip-solution.client",
     "src": "src/puzzles/peaceful-slip/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_8lrfSi8Z.js",
+      "_CPm4UabO.js"
     ],
     "css": [
       "font.css"
     ]
   },
   "src/puzzles/play-fetch/puzzle.client.tsx": {
-    "file": "BngoHB1-.mjs",
+    "file": "BngoHB1-.js",
     "name": "src-puzzles-play-fetch-puzzle.client",
     "src": "src/puzzles/play-fetch/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/play-snake/puzzle.client.tsx": {
-    "file": "BfSyP4ap.mjs",
+    "file": "BfSyP4ap.js",
     "name": "src-puzzles-play-snake-puzzle.client",
     "src": "src/puzzles/play-snake/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/pleased-watch/puzzle.client.tsx": {
-    "file": "q4Of-7yB.mjs",
+    "file": "q4Of-7yB.js",
     "name": "src-puzzles-pleased-watch-puzzle.client",
     "src": "src/puzzles/pleased-watch/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/portal-booth/solution.client.tsx": {
-    "file": "CqLuiuIg.mjs",
+    "file": "CqLuiuIg.js",
     "name": "src-puzzles-portal-booth-solution.client",
     "src": "src/puzzles/portal-booth/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/prepare-close/puzzle.client.tsx": {
-    "file": "BnfVQ3Pd.mjs",
+    "file": "BnfVQ3Pd.js",
     "name": "src-puzzles-prepare-close-puzzle.client",
     "src": "src/puzzles/prepare-close/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/primary-square/puzzle.client.tsx": {
-    "file": "DoXCS_dZ.mjs",
+    "file": "DoXCS_dZ.js",
     "name": "src-puzzles-primary-square-puzzle.client",
     "src": "src/puzzles/primary-square/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs",
-      "_CHMkij4t.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js",
+      "_CHMkij4t.js"
     ]
   },
   "src/puzzles/prismatic-paths/puzzle.client.tsx": {
-    "file": "D_zJdnDJ.mjs",
+    "file": "D_zJdnDJ.js",
     "name": "src-puzzles-prismatic-paths-puzzle.client",
     "src": "src/puzzles/prismatic-paths/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/profuse-pound/solution.client.tsx": {
-    "file": "m9qVzM8S.mjs",
+    "file": "m9qVzM8S.js",
     "name": "src-puzzles-profuse-pound-solution.client",
     "src": "src/puzzles/profuse-pound/solution.client.tsx",
     "isEntry": true
   },
   "src/puzzles/prompt-engineering/solution.client.tsx": {
-    "file": "Crag48uw.mjs",
+    "file": "Crag48uw.js",
     "name": "src-puzzles-prompt-engineering-solution.client",
     "src": "src/puzzles/prompt-engineering/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-comic/solution.client.tsx": {
-    "file": "PvboAoYr.mjs",
+    "file": "PvboAoYr.js",
     "name": "src-puzzles-puzzmon-comic-solution.client",
     "src": "src/puzzles/puzzmon-comic/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-mascot/solution.client.tsx": {
-    "file": "CSLBUgEf.mjs",
+    "file": "CSLBUgEf.js",
     "name": "src-puzzles-puzzmon-mascot-solution.client",
     "src": "src/puzzles/puzzmon-mascot/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-rap/solution.client.tsx": {
-    "file": "C5pm95yF.mjs",
+    "file": "C5pm95yF.js",
     "name": "src-puzzles-puzzmon-rap-solution.client",
     "src": "src/puzzles/puzzmon-rap/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-showcase/showcase.client.tsx": {
-    "file": "CBPSW1A-.mjs",
+    "file": "CBPSW1A-.js",
     "name": "src-puzzles-puzzmon-showcase-showcase.client",
     "src": "src/puzzles/puzzmon-showcase/showcase.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_C6EA9rzd.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_C6EA9rzd.js"
     ]
   },
   "src/puzzles/puzzmon-spelling-bee/solution.client.tsx": {
-    "file": "BEuJzIEO.mjs",
+    "file": "BEuJzIEO.js",
     "name": "src-puzzles-puzzmon-spelling-bee-solution.client",
     "src": "src/puzzles/puzzmon-spelling-bee/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-the-card-game-tournament/solution.client.tsx": {
-    "file": "q55n4MGm.mjs",
+    "file": "q55n4MGm.js",
     "name": "src-puzzles-puzzmon-the-card-game-tournament-solution.client",
     "src": "src/puzzles/puzzmon-the-card-game-tournament/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/puzzmon-yoga/puzzle.client.tsx": {
-    "file": "Dzw86qjq.mjs",
+    "file": "Dzw86qjq.js",
     "name": "src-puzzles-puzzmon-yoga-puzzle.client",
     "src": "src/puzzles/puzzmon-yoga/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/quarterly-belt/puzzle.client.tsx": {
-    "file": "COuLwvLC.mjs",
+    "file": "COuLwvLC.js",
     "name": "src-puzzles-quarterly-belt-puzzle.client",
     "src": "src/puzzles/quarterly-belt/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/ransom-note/solution.client.tsx": {
-    "file": "BX8GEeSH.mjs",
+    "file": "BX8GEeSH.js",
     "name": "src-puzzles-ransom-note-solution.client",
     "src": "src/puzzles/ransom-note/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/recreate-cards/solution.client.tsx": {
-    "file": "DpDWt-_h.mjs",
+    "file": "DpDWt-_h.js",
     "name": "src-puzzles-recreate-cards-solution.client",
     "src": "src/puzzles/recreate-cards/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/remote-point/interaction.client.tsx": {
-    "file": "z0FuthLt.mjs",
+    "file": "z0FuthLt.js",
     "name": "src-puzzles-remote-point-interaction.client",
     "src": "src/puzzles/remote-point/interaction.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_CyHnzWK1.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_CyHnzWK1.js"
     ]
   },
   "src/puzzles/roasted-back/roasted.client.tsx": {
-    "file": "DGtyShUO.mjs",
+    "file": "DGtyShUO.js",
     "name": "src-puzzles-roasted-back-roasted.client",
     "src": "src/puzzles/roasted-back/roasted.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js"
     ]
   },
   "src/puzzles/route-to-hq/puzzle.client.tsx": {
-    "file": "xtiu4ZQC.mjs",
+    "file": "xtiu4ZQC.js",
     "name": "src-puzzles-route-to-hq-puzzle.client",
     "src": "src/puzzles/route-to-hq/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/scientific-platypus/data.client.tsx": {
-    "file": "LbC4RVDV.mjs",
+    "file": "LbC4RVDV.js",
     "name": "src-puzzles-scientific-platypus-data.client",
     "src": "src/puzzles/scientific-platypus/data.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_00uIzIVf.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs",
-      "_DGHxrElc.mjs"
+      "_Cqdl_uWg.js",
+      "_00uIzIVf.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js",
+      "_DGHxrElc.js"
     ]
   },
   "src/puzzles/seen-at-mit/solution.client.tsx": {
-    "file": "CXmUDu4J.mjs",
+    "file": "CXmUDu4J.js",
     "name": "src-puzzles-seen-at-mit-solution.client",
     "src": "src/puzzles/seen-at-mit/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/sesquipedalian-electroencephalogram/puzzle.client.tsx": {
-    "file": "DFLQPCZW.mjs",
+    "file": "DFLQPCZW.js",
     "name": "src-puzzles-sesquipedalian-electroencephalogram-puzzle.client",
     "src": "src/puzzles/sesquipedalian-electroencephalogram/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_D5HYZvmI.mjs"
+      "_Cqdl_uWg.js",
+      "_D5HYZvmI.js"
     ]
   },
   "src/puzzles/sesquipedalian-electroencephalogram/solution.client.tsx": {
-    "file": "BwAlkZJx.mjs",
+    "file": "BwAlkZJx.js",
     "name": "src-puzzles-sesquipedalian-electroencephalogram-solution.client",
     "src": "src/puzzles/sesquipedalian-electroencephalogram/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_D5HYZvmI.mjs"
+      "_Cqdl_uWg.js",
+      "_D5HYZvmI.js"
     ]
   },
   "src/puzzles/shady-scuba-diver/clues.client.tsx": {
-    "file": "Dl22OokH.mjs",
+    "file": "Dl22OokH.js",
     "name": "src-puzzles-shady-scuba-diver-clues.client",
     "src": "src/puzzles/shady-scuba-diver/clues.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_DGHxrElc.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_DGHxrElc.js"
     ]
   },
   "src/puzzles/slide-puzzle/slide.client.tsx": {
-    "file": "CdazUrcv.mjs",
+    "file": "CdazUrcv.js",
     "name": "src-puzzles-slide-puzzle-slide.client",
     "src": "src/puzzles/slide-puzzle/slide.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/snapshots/solution.client.tsx": {
-    "file": "CKzSRlm3.mjs",
+    "file": "CKzSRlm3.js",
     "name": "src-puzzles-snapshots-solution.client",
     "src": "src/puzzles/snapshots/solution.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/snoopy-shoe/solution.client.tsx": {
-    "file": "Dg1R5tvS.mjs",
+    "file": "Dg1R5tvS.js",
     "name": "src-puzzles-snoopy-shoe-solution.client",
     "src": "src/puzzles/snoopy-shoe/solution.client.tsx",
     "isEntry": true,
@@ -6205,49 +6205,49 @@
     ]
   },
   "src/puzzles/spicy-witch/puzzle.client.tsx": {
-    "file": "CXhTNdex.mjs",
+    "file": "CXhTNdex.js",
     "name": "src-puzzles-spicy-witch-puzzle.client",
     "src": "src/puzzles/spicy-witch/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js",
+      "_8lrfSi8Z.js"
     ]
   },
   "src/puzzles/swap-puzzle/swap.client.tsx": {
-    "file": "BT2iCg-k.mjs",
+    "file": "BT2iCg-k.js",
     "name": "src-puzzles-swap-puzzle-swap.client",
     "src": "src/puzzles/swap-puzzle/swap.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs"
+      "_Cqdl_uWg.js"
     ]
   },
   "src/puzzles/sweaty-web/puzzle.client.tsx": {
-    "file": "cQGMj2Mk.mjs",
+    "file": "cQGMj2Mk.js",
     "name": "src-puzzles-sweaty-web-puzzle.client",
     "src": "src/puzzles/sweaty-web/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_8izHJ_gg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_8izHJ_gg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/talk-with-the-eldritch/puzzle.client.tsx": {
-    "file": "BjLXusnP.mjs",
+    "file": "BjLXusnP.js",
     "name": "src-puzzles-talk-with-the-eldritch-puzzle.client",
     "src": "src/puzzles/talk-with-the-eldritch/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js"
     ]
   },
   "src/puzzles/unsightly-olympus/solution.client.tsx": {
-    "file": "iSX7Peqa.mjs",
+    "file": "iSX7Peqa.js",
     "name": "src-puzzles-unsightly-olympus-solution.client",
     "src": "src/puzzles/unsightly-olympus/solution.client.tsx",
     "isEntry": true,
@@ -6256,44 +6256,44 @@
     ]
   },
   "src/puzzles/virtual-fighter/puzzle/puzzle.client.tsx": {
-    "file": "B_MoMJeY.mjs",
+    "file": "B_MoMJeY.js",
     "name": "src-puzzles-virtual-fighter-puzzle-puzzle.client",
     "src": "src/puzzles/virtual-fighter/puzzle/puzzle.client.tsx",
     "isEntry": true
   },
   "src/puzzles/virtuous-pound/puzzle.client.tsx": {
-    "file": "irhdGJiW.mjs",
+    "file": "irhdGJiW.js",
     "name": "src-puzzles-virtuous-pound-puzzle.client",
     "src": "src/puzzles/virtuous-pound/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_C6EA9rzd.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_C6EA9rzd.js"
     ]
   },
   "src/puzzles/weak-bridge/puzzle.client.tsx": {
-    "file": "CL5zq0I3.mjs",
+    "file": "CL5zq0I3.js",
     "name": "src-puzzles-weak-bridge-puzzle.client",
     "src": "src/puzzles/weak-bridge/puzzle.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs"
+      "_Cqdl_uWg.js"
     ]
   },
   "src/puzzles/whos-that-puzzmon/whos-that-puzzmon.client.tsx": {
-    "file": "D-_7VUW4.mjs",
+    "file": "D-_7VUW4.js",
     "name": "src-puzzles-whos-that-puzzmon-whos-that-puzzmon.client",
     "src": "src/puzzles/whos-that-puzzmon/whos-that-puzzmon.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CPm4UabO.mjs",
-      "_C6EA9rzd.mjs"
+      "_Cqdl_uWg.js",
+      "_CPm4UabO.js",
+      "_C6EA9rzd.js"
     ]
   },
   "src/puzzles/winding-snowman/solution.client.tsx": {
-    "file": "BClSXuob.mjs",
+    "file": "BClSXuob.js",
     "name": "src-puzzles-winding-snowman-solution.client",
     "src": "src/puzzles/winding-snowman/solution.client.tsx",
     "isEntry": true,
@@ -6302,14 +6302,14 @@
     ]
   },
   "src/puzzles/wretched-note/interactive.client.tsx": {
-    "file": "BK8o2Y1T.mjs",
+    "file": "BK8o2Y1T.js",
     "name": "src-puzzles-wretched-note-interactive.client",
     "src": "src/puzzles/wretched-note/interactive.client.tsx",
     "isEntry": true,
     "imports": [
-      "_Cqdl_uWg.mjs",
-      "_CyHnzWK1.mjs",
-      "_8lrfSi8Z.mjs"
+      "_Cqdl_uWg.js",
+      "_CyHnzWK1.js",
+      "_8lrfSi8Z.js"
     ]
   }
 }
