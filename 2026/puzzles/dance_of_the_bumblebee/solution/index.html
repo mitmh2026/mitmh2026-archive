@@ -15,13 +15,13 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           &quot;bird&quot; is the direct object.</p><img src="/2026/static/puzzles/assets/f3f56b6aa689d3c3.png" alt="Grammar example 1"/><p>This corresponds to English subject/direct object in most cases, with
           the notable exception being passive voice. E.g. in a sentence like
           &quot;the bird was eaten&quot;, English treats &quot;bird&quot; as the subject, but the
-          Bee language considers &quot;bird&quot; as the object of the verb &quot;eats&quot;:</p><img src="/static/puzzles/assets/7132b280906401c4.png" alt="Grammar example 2"/><p>Subjects and direct objects are not always necessary, and can be
+          Bee language considers &quot;bird&quot; as the object of the verb &quot;eats&quot;:</p><img src="/2026/static/puzzles/assets/7132b280906401c4.png" alt="Grammar example 2"/><p>Subjects and direct objects are not always necessary, and can be
           omitted. This subject was &quot;omitted&quot; for the &quot;passive&quot; sentence above.
           In a sentence like &quot;the person sleeps&quot;, the verb simply doesn&#x27;t need a
-          direct object:</p><img src="/static/puzzles/assets/a5904651871a2a9a.png" alt="Grammar example 3"/><p>Adjectives are a special case of a verb that always takes exactly one
+          direct object:</p><img src="/2026/static/puzzles/assets/a5904651871a2a9a.png" alt="Grammar example 3"/><p>Adjectives are a special case of a verb that always takes exactly one
           subject and no direct object. Instead of having a word &quot;blue&quot;, the
           adjective would be some verb &quot;is blue&quot; representing the state of
-          &quot;being blue&quot;:</p><img src="/static/puzzles/assets/d2e3f9a378ad1e92.png" alt="Grammar example 4"/><h2>Connectives</h2><p>Connectives act as linking words between the other two glyph types.
+          &quot;being blue&quot;:</p><img src="/2026/static/puzzles/assets/d2e3f9a378ad1e92.png" alt="Grammar example 4"/><h2>Connectives</h2><p>Connectives act as linking words between the other two glyph types.
           These fill the roles of prepositions and linking words like &quot;that&quot;,
           &quot;if&quot;, etc. in English. Consider the phrase &quot;snow on the mountain&quot; in
           English. Here, &quot;on&quot; is a preposition that links two other words: the
@@ -31,10 +31,10 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           noun and &quot;mountain&quot; as the &quot;complement&quot; noun (i.e. complemented &quot;on&quot;
           to form a descriptive phrase).</p><p>Connectives in the Bee language work similarly. &quot;on&quot; would be a
           connective glyph, with the modified noun glyph &quot;snow&quot; to the UR and
-          the complement glyph &quot;mountain&quot; to the UL:</p><img src="/static/puzzles/assets/a2aaf6252fd988c0.png" alt="Grammar example 5"/><p>Note that verbs can also be used with connectives! In a phrase like
+          the complement glyph &quot;mountain&quot; to the UL:</p><img src="/2026/static/puzzles/assets/a2aaf6252fd988c0.png" alt="Grammar example 5"/><p>Note that verbs can also be used with connectives! In a phrase like
           &quot;goes on the road&quot;, &quot;on&quot; would be a connective glyph, with the
           modified verb glyph &quot;goes&quot; to the DR and the noun glyph &quot;road&quot; to the
-          UL.</p><img src="/static/puzzles/assets/17627389fce648c2.png" alt="Grammar example 6"/><p>As can be gleaned in the examples above, a few rules govern the
+          UL.</p><img src="/2026/static/puzzles/assets/17627389fce648c2.png" alt="Grammar example 6"/><p>As can be gleaned in the examples above, a few rules govern the
           positioning of the glyphs connected by the connective. Connected nouns
           are always located above the connective. Connected verbs are always
           located below the connective. Complement glyphs are always located to
@@ -46,10 +46,10 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
             verb glyphs for &quot;studies&quot; and &quot;eats&quot; indicates studying and eating
             at the same time.<img src="/2026/static/puzzles/assets/af02e455c64aaa5e.png" alt="Grammar example 7"/></li><li class="list-disc list-inside">A modifies B in some way. For nouns, this could be B with the
             attribute of A. E.g. &quot;snow&quot; compounding on &quot;person&quot; means a &quot;person&quot;
-            with the attribute of &quot;snow&quot;, AKA a snowman.<img src="/2026/static/puzzles/assets/4c80b05b2d00bacd.png" alt="Grammar example 8"/></li></ul><p>More specific details on how each different word class can compound are covered in Advanced Grammar.</p><hr/><h1>Parse tree</h1><p>Excluding single-word sentences, each tile in a sentence must be immediately connected to at least one other tile. At the same time, a tile does not need to to be immediately connected to every adjacent tile.</p><img src="/static/puzzles/assets/f92c3e1a3ffdae12.png" alt="Grammar example 9"/><p>The subject &quot;person&quot; and the &quot;bird&quot; are both immediately connected to
+            with the attribute of &quot;snow&quot;, AKA a snowman.<img src="/2026/static/puzzles/assets/4c80b05b2d00bacd.png" alt="Grammar example 8"/></li></ul><p>More specific details on how each different word class can compound are covered in Advanced Grammar.</p><hr/><h1>Parse tree</h1><p>Excluding single-word sentences, each tile in a sentence must be immediately connected to at least one other tile. At the same time, a tile does not need to to be immediately connected to every adjacent tile.</p><img src="/2026/static/puzzles/assets/f92c3e1a3ffdae12.png" alt="Grammar example 9"/><p>The subject &quot;person&quot; and the &quot;bird&quot; are both immediately connected to
           the verb &quot;eats&quot;. However, subject &quot;person&quot; and direct object &quot;bird&quot;
           are not considered immediately connected. I.e. we are not connecting
-          these two nouns to form a compound &quot;person-bird&quot;.</p><p>In fact, sentences must follow the following constraint - between any two tiles of the sentence, there is only one valid path of immediate connections that connects them i.e. the immediate connections between tiles must form a tree structure (no cycles). Part of the challenge of parsing/writing longer sentences is understanding where the connections lie to form a valid parse tree:</p><img src="/static/puzzles/assets/bbb320766157974a.png" alt="Grammar example 10"/><hr/><h1>Glyph anatomy</h1><h2>Central shape</h2><p>Glyph classes (covered in the primer) are indicated by the shape in
+          these two nouns to form a compound &quot;person-bird&quot;.</p><p>In fact, sentences must follow the following constraint - between any two tiles of the sentence, there is only one valid path of immediate connections that connects them i.e. the immediate connections between tiles must form a tree structure (no cycles). Part of the challenge of parsing/writing longer sentences is understanding where the connections lie to form a valid parse tree:</p><img src="/2026/static/puzzles/assets/bbb320766157974a.png" alt="Grammar example 10"/><hr/><h1>Glyph anatomy</h1><h2>Central shape</h2><p>Glyph classes (covered in the primer) are indicated by the shape in
           the center of the glyph.</p><table class="my-2 border-collapse border border-yellow-700"><thead><tr class="bg-yellow-300"><th class="border border-yellow-700 p-2">Shape</th><th class="border border-yellow-700 p-2">Part of Speech</th></tr></thead><tbody><tr><td class="border border-yellow-700 p-2">Triangle</td><td class="border border-yellow-700 p-2">Noun</td></tr><tr><td class="border border-yellow-700 p-2">Circle</td><td class="border border-yellow-700 p-2">Verb</td></tr><tr><td class="border border-yellow-700 p-2">Square</td><td class="border border-yellow-700 p-2">Connective</td></tr></tbody></table><p>This is meant to aid in learning grammatical structure and parsing
           longer sentences - e.g. only &quot;triangles&quot; can be below &quot;circles&quot; and still
           connect to them, so solvers can parse &quot;circle&quot; glyphs as not connected grammatically
@@ -66,10 +66,10 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
             &quot;semantic group&quot;. I.e. if two glyphs share the exact same 3 large
             strokes (including if a stroke is absent or not) in the same
             positions, their meanings are related in some way. As an example:
-            <img src="/static/puzzles/assets/c732de6065d723ce.png" alt="Grammar example 12"/>
+            <img src="/2026/static/puzzles/assets/c732de6065d723ce.png" alt="Grammar example 12"/>
         The small strokes don&#x27;t have any pattern, however. Their only purpose is
         to distinguish between different glyphs within the same semantic group.
-        <hr/><h1>Numbers</h1><p>Numbers are base 6. Each side of the hexagon represents a digit:</p><img src="/static/puzzles/assets/8ca893d520d599db.png" alt="Grammar example 13"/><p>Placing an arc with 2 wings indicates multiplying the digit by 6<sup>1</sup>=6. E.g. the following example indicates 6x2+0x1=12:</p><img src="/static/puzzles/assets/fea41004e0854d2b.png" alt="Grammar example 14"/><p>In general, an arc with n wings indicates multiplying the digit by 6<sup>n-1</sup>.</p><p>The digit 0 for a place only needs to be indicated if there are larger
+        <hr/><h1>Numbers</h1><p>Numbers are base 6. Each side of the hexagon represents a digit:</p><img src="/2026/static/puzzles/assets/8ca893d520d599db.png" alt="Grammar example 13"/><p>Placing an arc with 2 wings indicates multiplying the digit by 6<sup>1</sup>=6. E.g. the following example indicates 6x2+0x1=12:</p><img src="/2026/static/puzzles/assets/fea41004e0854d2b.png" alt="Grammar example 14"/><p>In general, an arc with n wings indicates multiplying the digit by 6<sup>n-1</sup>.</p><p>The digit 0 for a place only needs to be indicated if there are larger
           places indicated in the number (or for the number 0). This is just
           like how the Arabic number &quot;42&quot; would not be written with a bunch of
           leading 0&#x27;s (e.g. &quot;00042&quot;).</p><h2>Word class of numbers</h2><p>Numbers can be either verbs or nouns. When they are used to describe
@@ -79,18 +79,18 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           part of the expression &quot;10-4&quot;, they are written as nouns. Listing out
           numbers (as in the same expression &quot;10-4&quot;) can be done by combining
           them with the connective &quot;with&quot; to clearly indicate the separation
-          between the numbers.</p><img src="/static/puzzles/assets/4afb8f72846a8ce2.png" alt="Grammar example 15"/></div></details><details class="text-left my-4 rounded-md border-2 border-yellow-700 bg-yellow-200 open:mb-0
+          between the numbers.</p><img src="/2026/static/puzzles/assets/4afb8f72846a8ce2.png" alt="Grammar example 15"/></div></details><details class="text-left my-4 rounded-md border-2 border-yellow-700 bg-yellow-200 open:mb-0
       open:bg-transparent [&amp;_summary]:open:bg-yellow-300 [&amp;_summary]:open:rounded-t-md
       [&amp;_summary]:open:border-b-1 [&amp;_summary]:open:border-yellow-700 [&amp;_svg]:open:-rotate-180"><summary class="select-none flex cursor-pointer list-none items-center text-center p-1"><div><svg class="rotate-0 transform text-yellow-700 transition-all duration-300" fill="none" height="20" width="20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg></div>Advanced Grammar</summary><div class="p-2"><h1>Connectives (advanced)</h1><p>See Connectives section in the Language Primer for the intro on how connectives work.</p><p>This section will dive deeper into the different ways connectives are used, case-by-case.</p><h2>Nouns + Connective + Noun</h2><p>This generally works the same as English prepositions linking two
           nouns, except they &quot;read&quot; right-to-left compared to English. E.g. the
           example &quot;snow on the mountain&quot; from the Language Primer:</p><img src="/2026/static/puzzles/assets/a2aaf6252fd988c0.png" alt="Grammar example 5"/><p>Special note that possession is always expressed using the connective
-          &quot;of&quot;. E.g. &quot;your book&quot; would be written as:</p><img src="/static/puzzles/assets/1fb9bd55e869c3e8.png" alt="Grammar example 16"/><h2>Verb + Connective + Noun</h2><p>This is the case with a noun glyph as the complement and a verb glyph
+          &quot;of&quot;. E.g. &quot;your book&quot; would be written as:</p><img src="/2026/static/puzzles/assets/1fb9bd55e869c3e8.png" alt="Grammar example 16"/><h2>Verb + Connective + Noun</h2><p>This is the case with a noun glyph as the complement and a verb glyph
           as the modified word. This generally works the same as a verb modified
           by a preposition in English. E.g. the example &quot;goes on the road&quot; from
-          the Language Primer:</p><img src="/static/puzzles/assets/17627389fce648c2.png" alt="Grammar example 6"/><p><b>Indirect objects</b> can be expressed using the connective &quot;to&quot;. E.g. &quot;I give the car to
-          the person&quot;:</p><img src="/static/puzzles/assets/ff9f0734e385f92a.png" alt="Grammar example 17"/><p>Adverbs is a special case that can be expressed using this
+          the Language Primer:</p><img src="/2026/static/puzzles/assets/17627389fce648c2.png" alt="Grammar example 6"/><p><b>Indirect objects</b> can be expressed using the connective &quot;to&quot;. E.g. &quot;I give the car to
+          the person&quot;:</p><img src="/2026/static/puzzles/assets/ff9f0734e385f92a.png" alt="Grammar example 17"/><p>Adverbs is a special case that can be expressed using this
           construction with the connective &quot;with&quot;. E.g. &quot;rains greatly&quot; can be
-          expressed as &quot;rains + with + largeness&quot;:</p><img src="/static/puzzles/assets/848508ce870fc297.png" alt="Grammar example 18"/><h2>Noun + Connective + Verb</h2><p>This is the case with a verb glyph as the complement and a noun glyph
+          expressed as &quot;rains + with + largeness&quot;:</p><img src="/2026/static/puzzles/assets/848508ce870fc297.png" alt="Grammar example 18"/><h2>Noun + Connective + Verb</h2><p>This is the case with a verb glyph as the complement and a noun glyph
           as the modified word. This grammar only applies when using the
           connective &quot;that&quot;, which connects the complement and noun like so: <!-- -->The complement verb acts as the <b>root</b> of some<!-- --> <a href="https://en.wikipedia.org/wiki/Independent_clause">independent clause</a> <!-- -->that describes/modifies the noun.<!-- --> <!-- -->Consider the English sentence &quot;I know that the person is sleeping.&quot;
           This can be reworded more explicitly as &quot;I know the fact that the
@@ -101,32 +101,32 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           complex sentences with multiple clauses. For instance, the sentence &quot;I
           walk because the car is dead&quot; could be reworded as &quot;I walk for the
           reason that the car is dead&quot;, where &quot;for&quot; is a connective modifying
-          the verb &quot;walk&quot;, and &quot;reason&quot; is written as &quot;thing&quot;:</p><img src="/static/puzzles/assets/17bd87d853e7264f.png" alt="Grammar example 20"/><hr/><h1>Compounding (advanced)</h1><p>See Compounding section in the Language Primer for the intro on how compounding works.</p><p>This section will dive deeper into the different ways compounding is used for each word class.</p><h2>Compounding nouns</h2><p>The Language Primer introduced compounding X on Y to mean &quot;X and Y&quot;.
+          the verb &quot;walk&quot;, and &quot;reason&quot; is written as &quot;thing&quot;:</p><img src="/2026/static/puzzles/assets/17bd87d853e7264f.png" alt="Grammar example 20"/><hr/><h1>Compounding (advanced)</h1><p>See Compounding section in the Language Primer for the intro on how compounding works.</p><p>This section will dive deeper into the different ways compounding is used for each word class.</p><h2>Compounding nouns</h2><p>The Language Primer introduced compounding X on Y to mean &quot;X and Y&quot;.
           As a special case, X can be compounded on itself to indicate a plural
-          number (&gt;1) of X. E.g. the following would indicate multiple &quot;birds&quot;:</p><img src="/static/puzzles/assets/bc4c2fe4cdf87493.png" alt="Grammar example 21"/><p>Note that reduplication is not done when a noun is already specified
+          number (&gt;1) of X. E.g. the following would indicate multiple &quot;birds&quot;:</p><img src="/2026/static/puzzles/assets/bc4c2fe4cdf87493.png" alt="Grammar example 21"/><p>Note that reduplication is not done when a noun is already specified
           with a number - the Bee language considers it redundant to indicate
           plurals the number already specifies &quot;plurarlity&quot;. In a sense,
           reduplication indicates an &quot;indeterminate&quot; plural whereas numbers
           indicate a &quot;determinate&quot; plural.</p><h2>Compounding verbs</h2><p>A verb X compounding on verb Y (i.e. X to the left of Y) can have one of the following interpretations:</p><ul class="list-disc list-inside"><li>X and Y happening at the same time. E.g. &quot;studies&quot; compounded on
             &lt;&quot;eats&quot; indicates studying and eating at the same time.<img src="/2026/static/puzzles/assets/af02e455c64aaa5e.png" alt="Grammar example 7"/></li><li>Y happens first, THEN X happens. E.g. &quot;the person eats, then
-            sleeps&quot;:<img src="/static/puzzles/assets/3d6e02eae8426d1a.png" alt="Grammar example 22"/></li><li>X is an auxiliary verb modifying Y. &quot;can/able to&quot; and &quot;not&quot; are both
+            sleeps&quot;:<img src="/2026/static/puzzles/assets/3d6e02eae8426d1a.png" alt="Grammar example 22"/></li><li>X is an auxiliary verb modifying Y. &quot;can/able to&quot; and &quot;not&quot; are both
             auxiliary verbs that use verb compounding. E.g. &quot;the person doesn&#x27;t
-            eat&quot;:<img src="/static/puzzles/assets/eb73c2b77d0bec6c.png" alt="Grammar example 23"/></li></ul><h2>Compounding connectives</h2><p>A verb can be affected by multiple connectives. The second connective
+            eat&quot;:<img src="/2026/static/puzzles/assets/eb73c2b77d0bec6c.png" alt="Grammar example 23"/></li></ul><h2>Compounding connectives</h2><p>A verb can be affected by multiple connectives. The second connective
           would be placed to the left of the first one, as if it was compounding
-          it. E.g. &quot;the car goes on the road to the mountain&quot;:</p><img src="/static/puzzles/assets/6ff15c4b7a0fe9e2.png" alt="Grammar example 24"/><h2>Multi-compounding</h2><p>Note: compounding can be done with three or more glyphs! E.g. if A, B, and C are all nouns, it could be parsed as either:</p><ul>A compounded on (B compounded on C)</ul><ul>(A compounded on B) compounded on C</ul><h2>Compounding &quot;root&quot;</h2><p>The &quot;right-most&quot; glyph in the compound serves as the root for further
+          it. E.g. &quot;the car goes on the road to the mountain&quot;:</p><img src="/2026/static/puzzles/assets/6ff15c4b7a0fe9e2.png" alt="Grammar example 24"/><h2>Multi-compounding</h2><p>Note: compounding can be done with three or more glyphs! E.g. if A, B, and C are all nouns, it could be parsed as either:</p><ul>A compounded on (B compounded on C)</ul><ul>(A compounded on B) compounded on C</ul><h2>Compounding &quot;root&quot;</h2><p>The &quot;right-most&quot; glyph in the compound serves as the root for further
           connections with other word classes. Consider a sentence &quot;The snowman
           eats&quot;. The noun compound here is &quot;snow&quot; + &quot;person&quot;, and the &quot;eats&quot;
-          glyph is placed to the UR of &quot;person&quot;.</p><img src="/static/puzzles/assets/154c9f440238a04b.png" alt="Grammar example 25"/><h2>Full adjacency reference</h2><p>This diagram summarizes all 6 ways a glyph from each word class can
+          glyph is placed to the UR of &quot;person&quot;.</p><img src="/2026/static/puzzles/assets/154c9f440238a04b.png" alt="Grammar example 25"/><h2>Full adjacency reference</h2><p>This diagram summarizes all 6 ways a glyph from each word class can
           connect to other glyphs. Note that an individual word does not
           necessarily accept connections in all 6 directions - e.g. the verb
-          &quot;sleeps&quot; does not accept a direct object.</p><img src="/static/puzzles/assets/298829463f87ddbc.png" alt="Grammar example 26"/><hr/><h1>Reference tags</h1><p>A specific thing or action could be referenced multiple times in the same sentence or even the same level. To aid in understanding, each instance where that thing or action is referenced can be tagged with an a single number glyph.</p><p>E.g. imagine two individual sentences: &quot;The person goes to the
-        mountain.&quot; and &quot;She walks on snow.&quot;</p><img src="/static/puzzles/assets/8ed016f1c5952d4b.png" alt="Grammar example 27"/><p>The above examples are akin to saying &quot;Person 1 goes to the
+          &quot;sleeps&quot; does not accept a direct object.</p><img src="/2026/static/puzzles/assets/298829463f87ddbc.png" alt="Grammar example 26"/><hr/><h1>Reference tags</h1><p>A specific thing or action could be referenced multiple times in the same sentence or even the same level. To aid in understanding, each instance where that thing or action is referenced can be tagged with an a single number glyph.</p><p>E.g. imagine two individual sentences: &quot;The person goes to the
+        mountain.&quot; and &quot;She walks on snow.&quot;</p><img src="/2026/static/puzzles/assets/8ed016f1c5952d4b.png" alt="Grammar example 27"/><p>The above examples are akin to saying &quot;Person 1 goes to the
         mountain.&quot; and &quot;Person 1 walks on snow.&quot;</p><p>Reference tags can also be used to indicate the same action is being
         referenced. Image the sentences &quot;I can sleep. I know it [=that I can
         sleep]&quot;, perhaps spoken by a struggling insomniac to themselves. This
         can be written by reference tagging the &quot;sleep&quot; glyph and the &quot;thing&quot;
         glyph (meaning &quot;fact&quot; or &quot;action&quot; here) with the same reference
-        number:</p><img src="/static/puzzles/assets/c1ba38ca25d40c19.png" alt="Grammar example 28"/><p>The number used to tag a reference is unique for each &quot;thing&quot; being
+        number:</p><img src="/2026/static/puzzles/assets/c1ba38ca25d40c19.png" alt="Grammar example 28"/><p>The number used to tag a reference is unique for each &quot;thing&quot; being
         tagged within the level. However, it is not unique between different
         levels, to avoid confusion with bigger numbers.</p><hr/><h1>1st/2nd person pronouns</h1><p>The 1st/2nd person pronouns (&quot;I/me&quot; and &quot;you&quot;) are represented simply
           as their own noun glyphs. Reference tags are not needed for these
@@ -134,7 +134,7 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           &quot;I/me&quot;.</p><hr/><h1>Junctions</h1><p>Sometimes glyphs would need to overlap when following the correct
           directional adjacency rules. To alleviate this, some glyphs simply
           serve as junctions. The lines indicate which tiles are considered
-          &quot;connected&quot; for the purposes of parsing the sentence:</p><img src="/static/puzzles/assets/4423f5335f40e971.png" alt="Grammar example 29"/><p>Here, &quot;hand&quot; is connected to &quot;holds&quot;, as the subject of that verb.
+          &quot;connected&quot; for the purposes of parsing the sentence:</p><img src="/2026/static/puzzles/assets/4423f5335f40e971.png" alt="Grammar example 29"/><p>Here, &quot;hand&quot; is connected to &quot;holds&quot;, as the subject of that verb.
           Similarly, &quot;card&quot; is connected to &quot;card&quot; - reduplication is used to
           indicate plurality (multiple &quot;cards&quot;).</p><hr/><h1>Gender</h1>
         The vast majority of bees are female, so female is assumed to be the
@@ -142,8 +142,8 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
         woman, but often assumed to be a woman. To explicitly indicate &quot;a man
         eats&quot;, the noun should be compounded by the noun &quot;male&quot; (borrowed from
         the word for &quot;drone bee&quot;):
-        <img src="/static/puzzles/assets/c514bd54f0055859.png" alt="Grammar example 30"/><hr/><h1>Imperative sentences</h1><p>Imperative sentences are simply regular sentences, but the subject is
-          explicitly written as &quot;you&quot;. E.g. &quot;Eat the bird!&quot;:</p><img src="/static/puzzles/assets/1de338356d640825.png" alt="Grammar example 31"/><hr/><h1>Omitted grammar</h1><p>Commonly used grammatical in English, like articles and tense, are not
+        <img src="/2026/static/puzzles/assets/c514bd54f0055859.png" alt="Grammar example 30"/><hr/><h1>Imperative sentences</h1><p>Imperative sentences are simply regular sentences, but the subject is
+          explicitly written as &quot;you&quot;. E.g. &quot;Eat the bird!&quot;:</p><img src="/2026/static/puzzles/assets/1de338356d640825.png" alt="Grammar example 31"/><hr/><h1>Omitted grammar</h1><p>Commonly used grammatical in English, like articles and tense, are not
           explicitly represented in the Bee language grammar, instead heavily
           relying on context or other grammar to fill in the gaps.</p><h2>Articles</h2><p>The sentences &quot;the cat drinks water&quot; and &quot;a (or some) cat drinks
           water&quot; would be represented with the same glyphs in the Bee language.
@@ -154,7 +154,7 @@ data-styled.g6[id="sc-47cde6aa-0"]{content:"huPPXl,"}/*!sc*/
           represented with the same glyphs. When a specific time for something
           happening is important, e.g. to emphasize &quot;I had a bird 4 years ago&quot;,
           a time connective e.g. &quot;4 years ago&quot; can be used to indicate the
-          timing (and past tense is implied):</p><img src="/static/puzzles/assets/01bc139038687550.png" alt="Grammar example 32"/><h1>Ambiguity</h1><p>The lack of certain grammar features / ambiguous parsing of the
+          timing (and past tense is implied):</p><img src="/2026/static/puzzles/assets/01bc139038687550.png" alt="Grammar example 32"/><h1>Ambiguity</h1><p>The lack of certain grammar features / ambiguous parsing of the
           adjacency tree can lead to multiple valid interpretations of a
           sentence. This is something that can happen in all languages,
           including natural ones. In a lot of cases, context should be enough to

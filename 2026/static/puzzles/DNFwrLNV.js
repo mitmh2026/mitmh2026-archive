@@ -14,7 +14,7 @@ const PuzzleComponent = () => {
   ] }) : /* @__PURE__ */ jsxRuntimeExports.jsxs(PuzzleInfoBox, { copyable: false, children: [
     "You need to solve the",
     " ",
-    /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: `/2026/puzzles/${CAPSTONE_SLUG}`, children: "Bubble Cove capstone puzzle" }),
+    /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: `/puzzles/${CAPSTONE_SLUG}`, children: "Bubble Cove capstone puzzle" }),
     " ",
     "before you can access this task."
   ] });
