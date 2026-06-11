@@ -1774,7 +1774,7 @@ const MONSTER_DATA = {
       altText: "A glowing butterfly-like creature with a light blue body and large dark blue wings speckled like a starry night sky. Treble clef patterns overlays the bottom half of its wings, fading from blue to a darker purple. Its yellow pupils are star-shaped, and thin curling purple antennae trail off into small glowing orange stars.",
       dimension: {
         name: "Kingdom of the Puzzmon",
-        url: "/",
+        url: "/2026/hunt/",
         intro: "/2026/hunt/story?cutscene=connect_the_clans_intro",
         outro: "/2026/hunt/story?cutscene=connect_the_clans_outro"
       },
