@@ -4949,7 +4949,7 @@ function requireDist() {
   function parse2(text, options) {
     var assetType = options && options.assetType ? options.assetType : "svg";
     var getTwemojiUrl = options && options.buildUrl ? options.buildUrl : function(codepoints2, assetType2) {
-      return assetType2 === "png" ? "https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/" + codepoints2 + ".png" : "https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/" + codepoints2 + ".svg";
+      return assetType2 === "png" ? "https://cdn.jsdelivr.net/gh/jdecked/twemoji@v17.0.2/assets/72x72/" + codepoints2 + ".png" : "https://cdn.jsdelivr.net/gh/jdecked/twemoji@v17.0.2/assets/svg/" + codepoints2 + ".svg";
     };
     var entities = [];
     _regex2.default.lastIndex = 0;
