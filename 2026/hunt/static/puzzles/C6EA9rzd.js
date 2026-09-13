@@ -1775,8 +1775,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Kingdom of the Puzzmon",
         url: "/2026/hunt/",
-        intro: "/2026/hunt/story?cutscene=connect_the_clans_intro",
-        outro: "/2026/hunt/story?cutscene=connect_the_clans_outro"
+        intro: "/story?cutscene=connect_the_clans_intro",
+        outro: "/story?cutscene=connect_the_clans_outro"
       },
       credits: {
         art: ["Melissa Yuan"]
@@ -1792,8 +1792,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Land of No Name",
         url: "/2026/hunt/rounds/land_of_no_name",
-        intro: "/2026/hunt/story?cutscene=land_of_no_name_intro",
-        outro: "/2026/hunt/story?cutscene=land_of_no_name_outro"
+        intro: "/story?cutscene=land_of_no_name_intro",
+        outro: "/story?cutscene=land_of_no_name_outro"
       },
       credits: {
         art: ["Kelsey Black"]
@@ -1809,8 +1809,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Hyperbolic Space",
         url: "/2026/hunt/rounds/hyperbolic_space",
-        intro: "/2026/hunt/story?cutscene=hyperbolic_space_intro",
-        outro: "/2026/hunt/story?cutscene=hyperbolic_space_outro"
+        intro: "/story?cutscene=hyperbolic_space_intro",
+        outro: "/story?cutscene=hyperbolic_space_outro"
       },
       credits: {
         art: ["Melissa Yuan"]
@@ -1826,8 +1826,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Atlas of Mosaics",
         url: "/2026/hunt/rounds/atlas_of_mosaics",
-        intro: "/2026/hunt/story?cutscene=atlas_of_mosaics_intro",
-        outro: "/2026/hunt/story?cutscene=atlas_of_mosaics_outro"
+        intro: "/story?cutscene=atlas_of_mosaics_intro",
+        outro: "/story?cutscene=atlas_of_mosaics_outro"
       },
       credits: {
         art: ["Jeff Yin"]
@@ -1843,8 +1843,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Fate's Thread Casino",
         url: "/2026/hunt/rounds/fates_thread_casino",
-        intro: "/2026/hunt/story?cutscene=fates_thread_casino_intro",
-        outro: "/2026/hunt/story?cutscene=fates_thread_casino_outro"
+        intro: "/story?cutscene=fates_thread_casino_intro",
+        outro: "/story?cutscene=fates_thread_casino_outro"
       },
       credits: {
         design: ["Jeff Yin"],
@@ -1861,8 +1861,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "Terminus",
         url: "/2026/hunt/rounds/terminus",
-        intro: "/2026/hunt/story?cutscene=terminus_intro",
-        outro: "/2026/hunt/story?cutscene=terminus_outro"
+        intro: "/story?cutscene=terminus_intro",
+        outro: "/story?cutscene=terminus_outro"
       },
       credits: {
         art: ["Joanna Gerr"]
@@ -1878,8 +1878,8 @@ const MONSTER_DATA = {
       dimension: {
         name: "The Glitch",
         url: "/2026/hunt/rounds/the_glitch",
-        intro: "/2026/hunt/story?cutscene=the_glitch_intro",
-        outro: "/2026/hunt/story?cutscene=the_glitch_outro"
+        intro: "/story?cutscene=the_glitch_intro",
+        outro: "/story?cutscene=the_glitch_outro"
       },
       credits: {
         art: ["Melissa Yuan"]

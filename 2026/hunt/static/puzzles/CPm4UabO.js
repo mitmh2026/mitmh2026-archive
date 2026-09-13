@@ -4105,7 +4105,7 @@ function CutsceneOverlay({ onClose, content }) {
         variant: "default",
         size: "lg",
         className: "fixed z-[10005] top-4 left-4 h-fit",
-        children: /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "/2026/hunt/story", className: "no-underline", children: [
+        children: /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "/story", className: "no-underline", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowLeft, {}),
           " Back to Story page"
         ] })
